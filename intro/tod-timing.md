@@ -10,11 +10,11 @@ Time of Day timing uses a timing device synced to local time to mark the exact t
 
 The racer's net time is then calcuated by subtracting the start ToD from the finish ToD.
 
- 10:32:02.6981
- 
--10:31:19.8732
-
-       42.8249
+| | |
+| :---: | ---: |
+| | 10:32:02.6981 |
+| - | 10:31:19.8732 |
+| = | 42.8249 |
        
 Modern electronic timing software performs this subtraction automatically. A later section of this book will explain how to subtract time by hand.
 
