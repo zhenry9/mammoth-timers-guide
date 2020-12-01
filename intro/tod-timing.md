@@ -16,7 +16,7 @@ The racer's net time is then calcuated by subtracting the start ToD from the fin
 | **-** | 10:31:19.8730 |
 | **=** | **42.8251** |
        
-Net times **always truncate to the 1/100th, and never round**. This racers final net time is therefore 42.82. Modern PC timing software performs this subtraction automatically. A later section of this book will explain how to subtract time by hand.
+Net times **always truncate to the 1/100th, and never round**. This racers final net time is therefore 42.82. Modern PC timing software will perform this subtraction automatically. A later section of this book will explain how to subtract time by hand.
 
 There are several major advantages to using ToD timing: 
  - It allows for easy timing of multiple racers on course.
