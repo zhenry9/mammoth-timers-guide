@@ -1,5 +1,5 @@
 # Time of Day (ToD) Timing
-When most people think of timing, they think of the type of timing done with a stopwatch. When a racer starts the timer starts counting up, and when they cross the finish it stops. Ski racing, however, uses what is called Time of Day or ToD timing.
+When most people think of timing, they think of the type of timing done with a stopwatch. When a racer starts the timer starts counting up, and when they cross the finish line it stops. Ski racing, however, uses what is called Time of Day, or ToD, timing.
 
 Time of Day timing uses a timing device synced to local time to mark the exact time of day a racer leaves the start, and the exact time of day they cross the finish. For example:
 
@@ -16,11 +16,11 @@ The racer's net time is then calcuated by subtracting the start ToD from the fin
 | - | 10:31:19.8732 |
 | = | 42.8249 |
        
-Modern electronic timing software performs this subtraction automatically. A later section of this book will explain how to subtract time by hand.
+Modern PC timing software performs this subtraction automatically. A later section of this book will explain how to subtract time by hand.
 
 There are several major advantages to using ToD timing: 
- - It allows to easily time multiple racers on course simultaneously
- - It allows the timer to catch and correct any errors, such as false starts or false finishes, that may arise.
+ - It allows for easy timing of multiple racers on course.
+ - It allows the timer to catch and correct any errors that may arise, such as false starts or false finishes.
  
  Here is our above example, but with a second racer on course:
  
