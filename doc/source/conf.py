@@ -12,7 +12,8 @@
 #
 # import os
 # import sys
-# sys.path.insert(0, os.path.abspath('.'))
+# sys.path.insert(0, os.path.abspath('......\AppData\Local\Programs\Python\Python39\Lib\site-packages'))
+
 
 
 # -- Project information -----------------------------------------------------
@@ -32,7 +33,7 @@ release = '0.0.1'
 # ones.
 extensions = [ 
     'recommonmark',
-    'sphinx-markdown-tables',
+    'sphinx_markdown_tables'
     ]
 
 # Add any paths that contain templates here, relative to this directory.
