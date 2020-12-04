@@ -37,162 +37,190 @@
 <h1>Time of Day (ToD) Timing<a class="headerlink" href="#time-of-day-tod-timing" title="Permalink to this headline">¶</a></h1>
 <p>When most people think of timing, they think of the type of timing done with a stopwatch. When a racer starts the timer starts counting up, and when they cross the finish line it stops. Ski racing, however, uses what is called Time of Day, or ToD, timing.</p>
 <p>Time of Day timing uses a timing device synced to local time to mark the exact time of day a racer leaves the start, and the exact time of day they cross the finish. For example:</p>
-<table border="1" class="docutils">
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 35%" />
+<col style="width: 65%" />
+</colgroup>
 <thead>
-<tr>
-<th>Event</th>
-<th>ToD</th>
+<tr class="row-odd"><th class="head"><p>Event</p></th>
+<th class="head"><p>ToD</p></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>Start</td>
-<td>10:31:19.8730</td>
+<tr class="row-even"><td><p>Start</p></td>
+<td><p>10:31:19.8730</p></td>
 </tr>
-<tr>
-<td>Finish</td>
-<td>10:32:02.6981</td>
-</tr>
-</tbody>
-</table><p>The racer’s net time is then calcuated by subtracting the start ToD from the finish ToD.</p>
-<table border="1" class="docutils">
-<thead>
-<tr>
-<th align="center"></th>
-<th align="right"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"></td>
-<td align="right">10:32:02.6981</td>
-</tr>
-<tr>
-<td align="center"><strong>-</strong></td>
-<td align="right">10:31:19.8730</td>
-</tr>
-<tr>
-<td align="center"><strong>=</strong></td>
-<td align="right"><strong>42.8251</strong></td>
+<tr class="row-odd"><td><p>Finish</p></td>
+<td><p>10:32:02.6981</p></td>
 </tr>
 </tbody>
 </table>
-<p>Net times <strong>always truncate to the 1/100th, and never round</strong>. This racers final net time is therefore 42.82. Modern PC timing software will perform this subtraction automatically. A later section of this book will explain how to subtract time by hand.</p><p>There are several major advantages to using ToD timing:</p>
+<p>The racer’s net time is then calcuated by subtracting the start ToD from the finish ToD.</p>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 32%" />
+<col style="width: 68%" />
+</colgroup>
+<tbody>
+<tr class="row-odd"><td></td>
+<td><p>10:32:02.6981</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>-</strong></p></td>
+<td><p>10:31:19.8730</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>=</strong></p></td>
+<td><p><strong>42.8251</strong></p></td>
+</tr>
+</tbody>
+</table>
+<p>Net times <strong>always truncate to the 1/100th, and never round</strong>. This racer’s final net time is therefore 42.82. Modern PC timing software will perform this subtraction automatically. A later section of this book will explain how to subtract time by hand.</p>
+<p>There are several major advantages to using ToD timing:</p>
 <ul class="simple">
 <li><p>It allows for easy timing of multiple racers on course.</p></li>
 <li><p>It allows the timer to catch and correct any errors that may arise, such as false starts or false finishes.</p></li>
 </ul>
 <p>Here is our above example, but with a second racer on course:</p>
-<p>| Bib Number | Event | ToD | Notes |
-| —— | —— | —— | —— |
-| 1 | Start | 10:31:19.8730 | |
-| 2 | Start | 10:31:49.5472 | |
-| 1 | Finish | 10:32:02.6981 | <em>Net time 42.82</em> |
-| 2 | Finish | 10:32:30.9953 | <em>Net time 41.44</em> |</p>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 12%" />
+<col style="width: 27%" />
+<col style="width: 39%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Bib Number</p></th>
+<th class="head"><p>Event</p></th>
+<th class="head"><p>ToD</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>1</p></td>
+<td><p>Start</p></td>
+<td><p>10:31:19.8730</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>2</p></td>
+<td><p>Start</p></td>
+<td><p>10:31:49.5472</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>1</p></td>
+<td><p>Finish</p></td>
+<td><p>10:32:02.6981</p></td>
+<td><p><em>Net time 42.82</em></p></td>
+</tr>
+<tr class="row-odd"><td><p>2</p></td>
+<td><p>Finish</p></td>
+<td><p>10:32:30.9953</p></td>
+<td><p><em>Net time 41.44</em></p></td>
+</tr>
+</tbody>
+</table>
 <p>And a third:</p>
-<table border="1" class="docutils">
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 12%" />
+<col style="width: 26%" />
+<col style="width: 40%" />
+</colgroup>
 <thead>
-<tr>
-<th>Bib Number</th>
-<th>Event</th>
-<th>ToD</th>
-<th>Notes</th>
+<tr class="row-odd"><th class="head"><p>Bib Number</p></th>
+<th class="head"><p>Event</p></th>
+<th class="head"><p>ToD</p></th>
+<th class="head"><p>Notes</p></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>1</td>
-<td>Start</td>
-<td>10:31:19.8730</td>
+<tr class="row-even"><td><p>1</p></td>
+<td><p>Start</p></td>
+<td><p>10:31:19.8730</p></td>
 <td></td>
 </tr>
-<tr>
-<td>2</td>
-<td>Start</td>
-<td>10:31:49.5472</td>
+<tr class="row-odd"><td><p>2</p></td>
+<td><p>Start</p></td>
+<td><p>10:31:49.5472</p></td>
 <td></td>
 </tr>
-<tr>
-<td>1</td>
-<td>Finish</td>
-<td>10:32:02.6981</td>
-<td><em>Net time 42.82</em></td>
+<tr class="row-even"><td><p>1</p></td>
+<td><p>Finish</p></td>
+<td><p>10:32:02.6981</p></td>
+<td><p><em>Net time 42.82</em></p></td>
 </tr>
-<tr>
-<td>3</td>
-<td>Start</td>
-<td>10:32:20.4762</td>
+<tr class="row-odd"><td><p>3</p></td>
+<td><p>Start</p></td>
+<td><p>10:32:20.4762</p></td>
 <td></td>
 </tr>
-<tr>
-<td>2</td>
-<td>Finish</td>
-<td>10:32:30.9953</td>
-<td><em>Net time 41.44</em></td>
+<tr class="row-even"><td><p>2</p></td>
+<td><p>Finish</p></td>
+<td><p>10:32:30.9953</p></td>
+<td><p><em>Net time 41.44</em></p></td>
 </tr>
-<tr>
-<td>3</td>
-<td>Finish</td>
-<td>10:33:02.0416</td>
-<td><em>Net time 41.56</em></td>
+<tr class="row-odd"><td><p>3</p></td>
+<td><p>Finish</p></td>
+<td><p>10:33:02.0416</p></td>
+<td><p><em>Net time 41.56</em></p></td>
 </tr>
 </tbody>
-</table><p>ToD timing allows for easy tracking of multiple racers, and an easy audit of the race afterwards.
+</table>
+<p>ToD timing allows for easy tracking of multiple racers, and an easy audit of the race afterwards.
 Here is an example of what might happen in the case of an error, this time a false finish:</p>
-<table border="1" class="docutils">
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 14%" />
+<col style="width: 14%" />
+<col style="width: 23%" />
+<col style="width: 50%" />
+</colgroup>
 <thead>
-<tr>
-<th>Bib Number</th>
-<th>Event</th>
-<th>ToD</th>
-<th>Notes</th>
+<tr class="row-odd"><th class="head"><p>Bib Number</p></th>
+<th class="head"><p>Event</p></th>
+<th class="head"><p>ToD</p></th>
+<th class="head"><p>Notes</p></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>1</td>
-<td>Start</td>
-<td>10:31:19.8730</td>
+<tr class="row-even"><td><p>1</p></td>
+<td><p>Start</p></td>
+<td><p>10:31:19.8730</p></td>
 <td></td>
 </tr>
-<tr>
-<td>2</td>
-<td>Start</td>
-<td>10:31:49.5472</td>
+<tr class="row-odd"><td><p>2</p></td>
+<td><p>Start</p></td>
+<td><p>10:31:49.5472</p></td>
 <td></td>
 </tr>
-<tr>
-<td>1</td>
-<td>Finish</td>
-<td>10:32:02.6981</td>
-<td><em>Net time 42.82</em></td>
+<tr class="row-even"><td><p>1</p></td>
+<td><p>Finish</p></td>
+<td><p>10:32:02.6981</p></td>
+<td><p><em>Net time 42.82</em></p></td>
 </tr>
-<tr>
-<td>~~2~~</td>
-<td>~~Finish~~</td>
-<td>~~10:32:04.6072~~</td>
-<td>~~<em>Net Time 14.06</em>~~ <strong>FALSE FINISH</strong></td>
+<tr class="row-odd"><td><p><em>2</em></p></td>
+<td><p><em>Finish</em></p></td>
+<td><p><em>10:32:04.6072</em></p></td>
+<td><p><em>Net Time 14.06</em> <strong>FALSE FINISH</strong></p></td>
 </tr>
-<tr>
-<td>3</td>
-<td>Start</td>
-<td>10:32:20.4762</td>
+<tr class="row-even"><td><p>3</p></td>
+<td><p>Start</p></td>
+<td><p>10:32:20.4762</p></td>
 <td></td>
 </tr>
-<tr>
-<td>2</td>
-<td>Finish</td>
-<td>10:32:30.9953</td>
-<td><em>Net time 41.44</em></td>
+<tr class="row-odd"><td><p>2</p></td>
+<td><p>Finish</p></td>
+<td><p>10:32:30.9953</p></td>
+<td><p><em>Net time 41.44</em></p></td>
 </tr>
-<tr>
-<td>3</td>
-<td>Finish</td>
-<td>10:33:02.0416</td>
-<td><em>Net time 41.56</em></td>
+<tr class="row-even"><td><p>3</p></td>
+<td><p>Finish</p></td>
+<td><p>10:33:02.0416</p></td>
+<td><p><em>Net time 41.56</em></p></td>
 </tr>
 </tbody>
-</table><p>Using a stopwatch, catching and correcting a false finish would be incredibly difficult if not impossible. With ToD timing the correction is straightforward, even long after the false finish occured.</p>
+</table>
+<p>Using a stopwatch, catching and correcting a false finish would be incredibly difficult if not impossible. With ToD timing the correction is straightforward, even long after the false finish occured.</p>
 </div>
 
 
@@ -258,7 +286,7 @@ Here is an example of what might happen in the case of an error, this time a fal
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
       |
-      <a href="../_sources/intro/tod-timing.md.txt"
+      <a href="../_sources/intro/tod-timing.rst.txt"
           rel="nofollow">Page source</a>
     </div>
 
