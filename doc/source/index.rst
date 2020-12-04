@@ -7,7 +7,7 @@ MMRD Timing Technician Manual
 ================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :includehidden:
    
    Intro <intro/what-is-timing>
