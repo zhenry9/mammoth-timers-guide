@@ -8,11 +8,12 @@ MMRD Timing Technician Manual
 
 .. toctree::
    :maxdepth: 2
+   :includehidden:
    
-   intro/what-is-timing
-   intro/tod-timing
-   intro/electronic-timing
-   intro/best-practices
+   Intro <intro/what-is-timing>
+   best-practices/best-practices
+   running-a-race/running-a-race
+   links
 
 
 
