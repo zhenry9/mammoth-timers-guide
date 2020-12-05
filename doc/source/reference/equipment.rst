@@ -23,7 +23,7 @@ Start Block
 -----------
 
 .. image:: ../img/equipment/start-box.jpg
-  :width: 10pt
+  :scale: 25%
   
 :Model number(s): 
   HL 7-1, HL 7-1P
