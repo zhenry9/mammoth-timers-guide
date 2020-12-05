@@ -39,7 +39,7 @@ Start Wand
 -----------
 
 .. image:: ../img/equipment/start-wand.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -55,7 +55,7 @@ Start Block Chain
 ------------------
 
 .. image:: ../img/equipment/start-chain.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -71,7 +71,7 @@ Headset with TAG Plug Adaptor Attached
 --------------------------------------
 
 .. image:: ../img/equipment/headset.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -87,7 +87,7 @@ Com Box
 -----------
 
 .. image:: ../img/equipment/com-box.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -103,7 +103,7 @@ Long Start Wand Cable
 ---------------------
 
 .. image:: ../img/equipment/long-wand-cable.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -119,7 +119,7 @@ Short Start Wand Cable
 ----------------------
 
 .. image:: ../img/equipment/short-wand-cable.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -135,7 +135,7 @@ Start Gater
 -----------
 
 .. image:: ../img/equipment/start-gater.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -151,7 +151,7 @@ Electronic Start Clock
 ----------------------
 
 .. image:: ../img/equipment/asc3-start-clock.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -205,7 +205,7 @@ Impulse Distributor
 -------------------
 
 .. image:: ../img/equipment/impulse-distributor.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -221,7 +221,7 @@ Photocell Pair
 --------------
 
 .. image:: ../img/equipment/photocell-pair.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -237,7 +237,7 @@ Photocell Gimble
 ----------------
 
 .. image:: ../img/equipment/photocell-gimble.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -253,7 +253,7 @@ Scored Finish Post
 ------------------
 
 .. image:: ../img/equipment/scored-finish-post.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -269,7 +269,7 @@ Cheese Wedge Pad
 ----------------
 
 .. image:: ../img/equipment/cheese-wedge.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -285,7 +285,7 @@ Finish Panel
 ------------
 
 .. image:: ../img/equipment/finish-panel.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -301,7 +301,7 @@ Homologated Timer
 ----------------
 
 .. image:: ../img/equipment/cp540.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -320,7 +320,7 @@ TAG-to-TAG Cable
 ----------------
 
 .. image:: ../img/equipment/tag-to-tag-cable.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -336,7 +336,7 @@ Tag-to-Banana Cable
 -------------------
 
 .. image:: ../img/equipment/tag-to-banana-cable.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
@@ -352,7 +352,7 @@ Three Pair Spool
 ----------------
 
 .. image:: ../img/equipment/3-pair-spool.jpg
-  :width: 10pt
+  :scale: 10%
   :align: center
   
 :Model number(s): 
