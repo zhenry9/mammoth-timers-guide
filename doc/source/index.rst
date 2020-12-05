@@ -13,6 +13,7 @@ MMRD Timing Technician Manual
    Intro <intro/what-is-timing>
    best-practices/best-practices
    running-a-race/running-a-race
+   equipment/equipment
    links
 
 
