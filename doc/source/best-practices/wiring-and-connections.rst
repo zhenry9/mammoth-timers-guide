@@ -40,7 +40,7 @@ Picture here
 
 Securing Wire Runs
 ------------------
-Wire runs should be protected from weather and traffic at all times. They can be run along a fence where possible, or attached to bamboo poles if it is in an area that is safe to do so. In high traffic areas wire should be flown high on double bamboo or buried underground. **Wheneever possible, avoid tying knots in the wire.** A clove hitch will secure a wire to a piece of bamboo, but it will also put unnecessary strain and wear on the wire, reducing its reliability.
+Wire runs should be protected from weather and traffic at all times. They can be run along a fence where possible, or attached to bamboo poles if it is in an area that is safe to do so. In high traffic areas wire should be flown high on double bamboo or buried underground. **Whenever possible, avoid tying knots in the wire.** A clove hitch will secure a wire to a piece of bamboo, but it will also put unnecessary strain and wear on the wire, reducing its reliability.
 
 To a fence
 ~~~~~~~~~~
