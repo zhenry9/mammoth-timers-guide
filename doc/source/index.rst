@@ -12,8 +12,11 @@ MMRD Timing Technician Manual
    
    Intro <intro/what-is-timing>
    best-practices/best-practices
-   running-a-race/running-a-race
+   setup/setup
+   race-day/race-day
    reference/equipment
+   reference/radio-protocol
+   reference/split-second
    links
 
 

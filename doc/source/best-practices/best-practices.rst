@@ -1,5 +1,9 @@
+==============
 Best Practices
 ==============
+--------------
+General
+--------------
 
 When things are running smoothly, being the timer can be the easiest job on the hill. When things fall apart, however, it can be one of the most difficult and easily most stressful. When a race is delayed for timing issues, the attention and oftentimes the frustration of all the visiting athletes, coaches and officials turns towards the guy in the timing shack. Adhering to some basic best practices can go a long way in avoiding this uncomfortable situation.
 
@@ -22,3 +26,8 @@ Pictures here
 Expect the Unexpected
 ---------------------
 Almost every race series will involve at least one unplanned catastrophe. Following the above best practices will help you anticipate these events and put you in the best possible position to respond.
+
+.. toctree::
+	:maxdepth: 2
+	
+	wiring-and-connections
