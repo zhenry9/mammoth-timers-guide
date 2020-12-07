@@ -2,7 +2,7 @@ Electronic Timing
 =================
 Ski races are timed using computerized electronic timing systems. The job of timing technicians at Mammoth Mountain is to install, maintain and operate these systems.
 
-In its most basic form, an electronic timing system consists of a [homologated](link to glossary here) timing wand and a homologated finish photo cell connected by copper wire to a synchronized timing device recording ToD times. This timing device is then connected to PC software that calculates net times and points to produce race results.
+In its most basic form, an electronic timing system consists of a timing wand and a finish photo cell connected by copper wire to a timing device recording ToD times. This timing device is then connected to PC software that calculates net times and points to produce race results.
 
 .. image:: ../img/basic-wiring-diagram.jpg
 	:align: center
