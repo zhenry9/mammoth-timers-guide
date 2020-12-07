@@ -28,7 +28,7 @@ assured by fixed wiring.
 611.2.1.3 
 	**Start Clock** For DH, SG and GS, the use of a start clock that provides at least an acoustic countdown signal on the fixed start interval as prescribed by the Jury should be used as an aid to race management. This is mandatory for all Level 0,1 and 2 races.
 	
-611.2.2 
+.. [611.2.2] 
 	**Hand Timing** Manual (hand) timing, completely separate and independent of the electronic timing, must be used for all competitions listed in the FIS Calendar. Stopwatches or hand operated battery powered timers that are installed at both the Start and the Finish and capable of expressing the time of day to at least 1/100th (0.01) precision qualify as proper hand timing devices. They must be synchronised prior to the start of the first run, with the same time-of-day as system A and system B (see art. 611.2.1). Printed records, either automatic or hand-written, of recorded hand times must be immediately available at the start and at the finish.
 	
 611.2.3 
