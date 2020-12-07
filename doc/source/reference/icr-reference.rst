@@ -13,29 +13,37 @@ In Olympic Winter Games and FIS World Championships all
 communications and timing connections between Start and Finish must be
 assured by fixed wiring.
 
-611.2 
-	**Timing Equipment** For all events in the FIS Calendar, electronic timers, start gates and photocells homologated by the FIS must be used. A list of these approved	devices will be published. Races using timing equipment other than those on the homologated FIS list will not be considered for FIS points. Specifications and procedures for timing are more fully described in a separate FIS Timing Booklet.
-	
-611.2.1 
-	**Electric Timing** For all international competitions, FIS World Cup, FIS Continental Cups and FIS competitions, two synchronised electronically isolated timing systems operating in time-of-day must be used. One system will be designated system A (main system), the other system B (back-up system)prior to the beginning of the race. Only exception for Parallel competitions, on Level 2, 3 and 4 where no system B is required. Time of day times must be immediately and automatically sequentially recorded on printed strips at the maximum precision of the timing device according to the requirements for homologation. The final result is calculated by subtracting the start time from the finish time for each skier’s run and is then expressed to 1/100th (0.01) precision by truncating the calculated net time on course. All times used for the final result must be from system A. If there is a failure of system A, a calculated net time from system B must be used following the same procedure as set out in art. 611.3.2.1. It is not permitted to substitute time-of-day times from system B for use with system A for the purpose of net time calculations. For all events, system A must be connected to its respective start gate contact. System B must be separately connected to another electronically isolated start gate contact. Refer to the FIS Timing Booklet for more details regarding cabling and complete wiring descriptions, diagrams and start gate installations. All timing equipment and technical installation should be set up or protected in such a way that danger to the competitors is avoided where possible. Synchronisation of the timing systems must occur as close as possible to the scheduled start for the first run of the day. Synchronisation of all systems must be maintained throughout each run. Timers must not be resynchronised during any run.
+.. glossary::
+
+	611.2 Timing Equipment
+		For all events in the FIS Calendar, electronic timers, start gates and photocells homologated by the FIS must be used. A list of these approved	devices will be published. Races using timing equipment other than those on the homologated FIS list will not be considered for FIS points. Specifications and procedures for timing are more fully described in a separate FIS Timing Booklet.
 		
-611.2.1.1
-	**Start Gate** The start gate must have separate electronically isolated switch contacts for triggering the start inputs of both system A & B. If a start gate or start wand requires replacement during a run, it must be replaced with identical equipment in the same position
-	
-611.2.1.2 
-	**Photocells** For all events, there must be two photocell system(s) homologated by the FIS installed at the finish line. One is connected to system A. The other is connected to system B. Procedures and regulations for start gates and photocells are found in the FIS Timing Booklet.
-	
-611.2.1.3 
-	**Start Clock** For DH, SG and GS, the use of a start clock that provides at least an acoustic countdown signal on the fixed start interval as prescribed by the Jury should be used as an aid to race management. This is mandatory for all Level 0,1 and 2 races.
-	
-.. [611.2.2] 
-	**Hand Timing** Manual (hand) timing, completely separate and independent of the electronic timing, must be used for all competitions listed in the FIS Calendar. Stopwatches or hand operated battery powered timers that are installed at both the Start and the Finish and capable of expressing the time of day to at least 1/100th (0.01) precision qualify as proper hand timing devices. They must be synchronised prior to the start of the first run, with the same time-of-day as system A and system B (see art. 611.2.1). Printed records, either automatic or hand-written, of recorded hand times must be immediately available at the start and at the finish.
-	
-611.2.3 
-	**Presentation of times** Organisers should provide appropriate facilities for continuous presentation of all registered times of all competitors.
-	
-611.2.4 
-	**Timing without Cable** For FIS Level 3 events only, it is permitted to use homologated timing equipment in such a way that hill cable connection between start and finish is not required. Refer to the FIS Timing Booklet for a detailed discussion of how this is possible.
+	611.2.1 
+		**Electric Timing** For all international competitions, FIS World Cup, FIS Continental Cups and FIS competitions, two synchronised electronically isolated timing systems operating in time-of-day must be used. One system will be designated system A (main system), the other system B (back-up system)prior to the beginning of the race. Only exception for Parallel competitions, on Level 2, 3 and 4 where no system B is required. Time of day times must be immediately and automatically sequentially recorded on printed strips at the maximum precision of the timing device according to the requirements for homologation. The final result is calculated by subtracting the start time from the finish time for each skier’s run and is then expressed to 1/100th (0.01) precision by truncating the calculated net time on course. All times used for the final result must be from system A. If there is a failure of system A, a calculated net time from system B must be used following the same procedure as set out in art. 611.3.2.1. It is not permitted to substitute time-of-day times from system B for use with system A for the purpose of net time calculations. For all events, system A must be connected to its respective start gate contact. System B must be separately connected to another electronically isolated start gate contact. Refer to the FIS Timing Booklet for more details regarding cabling and complete wiring descriptions, diagrams and start gate installations. All timing equipment and technical installation should be set up or protected in such a way that danger to the competitors is avoided where possible. Synchronisation of the timing systems must occur as close as possible to the scheduled start for the first run of the day. Synchronisation of all systems must be maintained throughout each run. Timers must not be resynchronised during any run.
+			
+	611.2.1.1
+	Start Gate 
+		The start gate must have separate electronically isolated switch contacts for triggering the start inputs of both system A & B. If a start gate or start wand requires replacement during a run, it must be replaced with identical equipment in the same position
+		
+	611.2.1.2 
+	Photocells
+		For all events, there must be two photocell system(s) homologated by the FIS installed at the finish line. One is connected to system A. The other is connected to system B. Procedures and regulations for start gates and photocells are found in the FIS Timing Booklet.
+		
+	611.2.1.3 
+	Start Clock 
+		For DH, SG and GS, the use of a start clock that provides at least an acoustic countdown signal on the fixed start interval as prescribed by the Jury should be used as an aid to race management. This is mandatory for all Level 0,1 and 2 races.
+		
+	611.2.2
+	Hand Timing
+		Manual (hand) timing, completely separate and independent of the electronic timing, must be used for all competitions listed in the FIS Calendar. Stopwatches or hand operated battery powered timers that are installed at both the Start and the Finish and capable of expressing the time of day to at least 1/100th (0.01) precision qualify as proper hand timing devices. They must be synchronised prior to the start of the first run, with the same time-of-day as system A and system B (see art. 611.2.1). Printed records, either automatic or hand-written, of recorded hand times must be immediately available at the start and at the finish.
+		
+	611.2.3 
+	Presentation of times 
+		Organisers should provide appropriate facilities for continuous presentation of all registered times of all competitors.
+		
+	611.2.4 
+	Timing without Cable
+		For FIS Level 3 events only, it is permitted to use homologated timing equipment in such a way that hill cable connection between start and finish is not required. Refer to the FIS Timing Booklet for a detailed discussion of how this is possible.
 	
 611.3 Timing
 ------------
@@ -79,7 +87,7 @@ assured by fixed wiring.
 	**The Chief Timekeeper** The chief timekeeper is responsible for the accuracy of the timing and synchronises the watches with the starter as shortly before and after the race as is possible. The chief timekeeper must publish unofficial times as quickly as possible (on the score-board, etc.). If the electric timing fails, the chief timekeeper must communicate immediately with the start referee and the TD.
 	
 612.5
-	**The Assistant Timekeeper** Two assistant timekeepers operate stop watches according to art. 611.2.2_. One assistant timekeeper maintains a complete record with the registered times of all competitors.
+	**The Assistant Timekeeper** Two assistant timekeepers operate stop watches according to art. `611.2.2`. One assistant timekeeper maintains a complete record with the registered times of all competitors.
 	
 612.6 
 	**The Finish Controller** The finish controller has the following duties:
