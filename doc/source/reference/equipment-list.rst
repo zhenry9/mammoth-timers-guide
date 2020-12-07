@@ -379,3 +379,20 @@ Three Pair Spool
   Wire spool with three pairs, normally labeled Time 1, Time 2, and COM. Used especially for connecting homologated start boxes and headsets to hill wire.
 :Troubleshooting: 
   Check for obvious damage. If there is no obvious damage, use line break detector to determine location of damaged section.
+  
+  
+Equipment Kits
+~~~~~~~~~~~~~~
+
+Start Kit
+---------
+2 x `Start Block`_
+2 x `Start Wand`_
+1 x `Start Block Chain`_
+2 x `Headset with TAG Plug Adaptor Attached`_
+2 x `Com Box`_
+1 x `Long Start Wand Cable`_
+1 x `Short Start Wand Cable`_
+2 x `Pigtail`_
+1 x `Start Gater`_
+1 x `Electronic Start Clock`_ (regular interval races only)
