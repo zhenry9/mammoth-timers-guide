@@ -1,4 +1,9 @@
+====================
+ICR Reference
+====================
+
 611.1 Communications & Cabling
+------------------------------
 In all international competitions, it is highly recommended that there is
 multiple communications (telephone or radios, etc.) between the Start and
 Finish. Voice communication between Start and Finish must be assured
@@ -7,48 +12,17 @@ separate channel from that used by any other function of the OC.
 In Olympic Winter Games and FIS World Championships all
 communications and timing connections between Start and Finish must be
 assured by fixed wiring.
-611.2 Timing Equipment
-For all events in the FIS Calendar, electronic timers, start gates and
-photocells homologated by the FIS must be used. A list of these approved
-devices will be published. Races using timing equipment other than those
-on the homologated FIS list will not be considered for FIS points.
-Specifications and procedures for timing are more fully described in a
-separate FIS Timing Booklet.
-611.2.1 Electric Timing
-For all international competitions, FIS World Cup, FIS Continental Cups
-and FIS competitions, two synchronised electronically isolated timing
-systems operating in time-of-day must be used. One system will be
-designated system A (main system), the other system B (back-up system)
-prior to the beginning of the race. Only exception for Parallel competitions,
-on Level 2, 3 and 4 where no system B is required.
-Time of day times must be immediately and automatically sequentially
-recorded on printed strips at the maximum precision of the timing device
-according to the requirements for homologation. The final result is
-calculated by subtracting the start time from the finish time for each skier’s
-run and is then expressed to 1/100th (0.01) precision by truncating the
-calculated net time on course.
-All times used for the final result must be from system A. If there is a
-failure of system A, a calculated net time from system B must be used
-following the same procedure as set out in art. 611.3.2.1. It is not
-permitted to substitute time-of-day times from system B for use with
-system A for the purpose of net time calculations.
-For all events, system A must be connected to its respective start gate
-contact. System B must be separately connected to another electronically
-isolated start gate contact.
-Refer to the FIS Timing Booklet for more details regarding cabling and
-complete wiring descriptions, diagrams and start gate installations.
-All timing equipment and technical installation should be set up or
-protected in such a way that danger to the competitors is avoided where
-possible.
-Synchronisation of the timing systems must occur as close as possible to
-the scheduled start for the first run of the day. Synchronisation of all 
-53
-systems must be maintained throughout each run. Timers must not be resynchronised during any run.
-611.2.1.1 Start Gate
-The start gate must have separate electronically isolated switch contacts
-for triggering the start inputs of both system A & B.
-If a start gate or start wand requires replacement during a run, it must be
-replaced with identical equipment in the same position
+
+:611.2 Timing Equipment: 
+	For all events in the FIS Calendar, electronic timers, start gates and photocells homologated by the FIS must be used. A list of these approved	devices will be published. Races using timing equipment other than those on the homologated FIS list will not be considered for FIS points. Specifications and procedures for timing are more fully described in a separate FIS Timing Booklet.
+	
+611.2.1 
+	:Electric Timing:
+		For all international competitions, FIS World Cup, FIS Continental Cups and FIS competitions, two synchronised electronically isolated timing systems operating in time-of-day must be used. One system will be designated system A (main system), the other system B (back-up system)prior to the beginning of the race. Only exception for Parallel competitions, on Level 2, 3 and 4 where no system B is required. Time of day times must be immediately and automatically sequentially recorded on printed strips at the maximum precision of the timing device according to the requirements for homologation. The final result is calculated by subtracting the start time from the finish time for each skier’s run and is then expressed to 1/100th (0.01) precision by truncating the calculated net time on course. All times used for the final result must be from system A. If there is a failure of system A, a calculated net time from system B must be used following the same procedure as set out in art. 611.3.2.1. It is not permitted to substitute time-of-day times from system B for use with system A for the purpose of net time calculations. For all events, system A must be connected to its respective start gate contact. System B must be separately connected to another electronically isolated start gate contact. Refer to the FIS Timing Booklet for more details regarding cabling and complete wiring descriptions, diagrams and start gate installations. All timing equipment and technical installation should be set up or protected in such a way that danger to the competitors is avoided where possible. Synchronisation of the timing systems must occur as close as possible to the scheduled start for the first run of the day. Synchronisation of all systems must be maintained throughout each run. Timers must not be resynchronised during any run.
+		
+611.2.1.1
+	**Start Gate** The start gate must have separate electronically isolated switch contacts for triggering the start inputs of both system A & B. If a start gate or start wand requires replacement during a run, it must be replaced with identical equipment in the same position
+	
 611.2.1.2 Photocells
 For all events, there must be two photocell system(s) homologated by the
 FIS installed at the finish line. One is connected to system A. The other is
@@ -142,9 +116,7 @@ team captain concerned, and the Jury decides concerning approval of the
 installation. At Olympic Winter Games, FIS World Ski Championships and
 FIS World Cup only the organisers timing equipment is permitted.
 612 Start and Finish Officials
-==============
-ICR Reference
-==============
+------------------------------
 
 612.1 
 	:The Starter:
@@ -152,7 +124,7 @@ ICR Reference
 	
 :612.2 The Assistant Starter:
 	The assistant starter is responsible for calling the competitors to the start in their correct order.
-	
+
 612.3 The Start Recorder
 The start recorder is responsible for recording the actual start times of all
 competitors.
