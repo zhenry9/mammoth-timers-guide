@@ -14,7 +14,7 @@ For all scored FIS and US Ski & Snowboard races, which are the focus of this boo
 .. image:: ../img/level-3-wiring-diagram.jpg
 	:align: center
 
-Regarding hand times, rule 611.2.2 states:
+Regarding hand times, rule :term:`611.2.2` states:
 
 	Manual (hand) timing, completely separate and independent of the electronic timing, must be used for all competitions listed in the FIS Calendar. Stopwatches or hand operated battery powered timers that are installed at both the Start and the Finish and capable of expressing the time of day to at least 1/100th (0.01) precision qualify as proper hand timing devices. They must be synchronised prior to the start of the first run, with the same time-of-day as system A and system B (see art. 611.2.1). Printed records, either automatic or hand-written, of recorded hand times must be immediately available at the start and at the finish.
 
