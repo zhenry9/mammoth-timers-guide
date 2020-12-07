@@ -97,39 +97,7 @@ Com Box
 :Description: 
   Com Box to connect to TAG headsets.
 :Troubleshooting: 
-  Check connections. Check 9v battery.
-
-Long Start Wand Cable
----------------------
-
-.. image:: ../img/equipment/long-wand-cable.jpg
-  :scale: 10%
-  :align: center
-  
-:Model number(s): 
-  N/A
-:Homologation number(s):
-  N/A
-:Description: 
-  Two long adjoined banana-plug-to-TAG-plug adaptors. Used for connecting start block to wire spool.
-:Troubleshooting: 
-  Check wires, plugs, and connections for signs of damage.
-  
-Short Start Wand Cable
-----------------------
-
-.. image:: ../img/equipment/short-wand-cable.jpg
-  :scale: 10%
-  :align: center
-  
-:Model number(s): 
-  N/A
-:Homologation number(s):
-  N/A
-:Description: 
-  Two short adjoined banana-plug-to-TAG-plug adaptors. Used for connecting start block to wire spool.
-:Troubleshooting: 
-  Check wires, plugs, and connections for signs of damage.  
+  Check connections. Check 9v battery. 
   
 Start Gater
 -----------
@@ -347,6 +315,54 @@ Tag-to-Banana Cable
   Short cable with single TAG style plugs on one end and a double banana plug on the other end. Used for connecting impulse distributors to shack timing boards, or for connecting photocells to wire spools.
 :Troubleshooting: 
   Check for damage.
+  
+Long Start Wand Cable
+---------------------
+
+.. image:: ../img/equipment/long-wand-cable.jpg
+  :scale: 10%
+  :align: center
+  
+:Model number(s): 
+  N/A
+:Homologation number(s):
+  N/A
+:Description: 
+  Two long adjoined banana-plug-to-TAG-plug adaptors. Used for connecting start block to wire spool.
+:Troubleshooting: 
+  Check wires, plugs, and connections for signs of damage.
+  
+Short Start Wand Cable
+----------------------
+
+.. image:: ../img/equipment/short-wand-cable.jpg
+  :scale: 10%
+  :align: center
+  
+:Model number(s): 
+  N/A
+:Homologation number(s):
+  N/A
+:Description: 
+  Two short adjoined banana-plug-to-TAG-plug adaptors. Used for connecting start block to wire spool.
+:Troubleshooting: 
+  Check wires, plugs, and connections for signs of damage. 
+  
+RS-232 Cable with USB Adaptor
+-----------------------------
+
+.. image:: ../img/equipment/rs232-cable-with-usb-adaptor.jpg
+	:scale: 10%
+	:align: center
+	
+:Model number(s): 
+  N/A
+:Homologation number(s):
+  N/A
+:Description: 
+  Serial cable with USB adaptor attached. Used to connect TAG timing devices to computer.
+:Troubleshooting: 
+  Make sure adaptor is securely connected. If trouble persists, try a different adaptor.
   
 Three Pair Spool
 ----------------
