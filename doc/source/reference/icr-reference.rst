@@ -89,7 +89,7 @@ assured by fixed wiring.
 	**The Chief Timekeeper** The chief timekeeper is responsible for the accuracy of the timing and synchronises the watches with the starter as shortly before and after the race as is possible. The chief timekeeper must publish unofficial times as quickly as possible (on the score-board, etc.). If the electric timing fails, the chief timekeeper must communicate immediately with the start referee and the TD.
 	
 612.5
-	**The Assistant Timekeeper** Two assistant timekeepers operate stop watches according to art. `611.2.2`_. One assistant timekeeper maintains a complete record with the registered times of all competitors.
+	**The Assistant Timekeeper** Two assistant timekeepers operate stop watches according to art. :term:`611.2.2`. One assistant timekeeper maintains a complete record with the registered times of all competitors.
 	
 612.6 
 	**The Finish Controller** The finish controller has the following duties:
