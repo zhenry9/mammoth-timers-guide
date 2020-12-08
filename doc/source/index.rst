@@ -14,9 +14,30 @@ MMRD Timing Technician Manual
    best-practices/best-practices
    setup/setup
    race-day/race-day
-   reference/equipment
+   
+------------------
+
+.. toctree::
+   :maxdepth: 2
+   :includehidden:
+   
    reference/radio-protocol
    reference/split-second
+   
+-------------------
+
+.. toctree::
+   :maxdepth: 2
+   :includehidden:
+   
+   reference/equipment
+   
+--------------------
+
+.. toctree::
+   :maxdepth: 2
+   :includehidden:
+   
    reference/icr-reference
    links
 
