@@ -10,7 +10,7 @@ MMRD Timing Technician Manual
    :maxdepth: 2
    :includehidden:
    
-   Intro <intro/what-is-timing>
+   intro/intro
    best-practices/best-practices
    setup/setup
    race-day/race-day
