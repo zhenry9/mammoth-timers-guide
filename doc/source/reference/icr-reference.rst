@@ -118,3 +118,84 @@ ICR Reference
 	612.7 
 	The Chief of Calculations
 		The chief of calculations is responsible for quick and accurate calculation of results and supervises the immediate duplication of unofficial results and the publication of official results after expiration of the protest interval, or after any protests have been dealt with.
+		
+
+613 The Start
+-------------
+
+.. glossary::
+
+	613.1 
+	The Start Area
+		The start area must be closed off to everyone except the starting
+		competitor, accompanied by only one trainer and the start officials.
+		The start area must be protected appropriately against inclement weather.
+		A special roped off area must be provided for trainers, team captains,
+		service personnel etc., in which they may take care of the waiting
+		competitors without being interrupted by the public. An adequate shelter
+		must be prepared for the competitors waiting for the call to start.
+		The competitor enters the defined start hut with both skis attached without
+		any covers on them.
+		
+	613.2 
+	The Start Ramp
+		The start ramp should be prepared in such a way that the competitors can
+		stand relaxed on the starting line and can quickly reach full speed after
+		leaving the start.
+		
+	613.3 
+	Start Procedure
+		No official or attendant who could possibly give an advantage to or disturb
+		the starting competitors can be behind them. All outside help is forbidden.
+		By order of the starter, competitors must plant their poles in front of the
+		start line, or where indicated. The Starter must not touch the competitor at
+		the start. Pushing off from the start posts or other aids is forbidden and
+		competitors must start only with the help of their ski poles.
+		
+	613.4 
+	Start Signals
+		10 seconds before the start, the starter will tell each competitor "10
+		seconds". Five seconds before the start, the starter should count "5, 4, 3,
+		2, 1" and then give the start command "Go - Partez - Los".
+		(For Slalom see art. 805.3).
+		If possible, an automatic audible signal is to be used (art. 611.2.1.3). The
+		starter will let the competitor see the start clock.
+		
+	613.5 
+	Start Timing
+		The start timing must measure the exact time when the competitors cross
+		the start line with their leg below the knee.
+		
+	613.6
+	Delayed Start
+		A competitor who is not ready to start on time will be sanctioned. The Start
+		Referee may however excuse such a delay if, in the start referee´s opinion
+		the delay is due to "force majeure".
+		For example, breakdown of a competitor's personal equipment or minor
+		sickness of a competitor does not constitute "force majeure".
+		In case of doubt, the Jury may allow the start provisionally.
+		
+	613.6.1 
+		The start referee makes the decisions after consultation with the Jury
+		(according to art. :term:`613.6.2` and :term:`613.6.3`) and must record the start numbers
+		and names of competitors who were not allowed to start because of late
+		appearance, or who were allowed to start in spite of late appearance, or
+		who were allowed to start provisionally.
+
+	613.6.2 
+		In the case of fixed start intervals, delayed competitors may start at the
+		fixed interval after they have reported to the start referee, in accordance
+		with the decision of the Jury. The Start Referee informs the Jury as to
+		when (after which start number) a delayed competitor is starting.
+		613.6.3 In the case of irregular start intervals, the delayed competitor will start
+		according to art. 805.3. The start referee informs the Jury as to when
+		(after which start number) a delayed competitor is starting.
+	613.7
+	Valid and False Starts
+		In competitions with a fixed start interval the competitor must start on the
+		start signal. The start time is valid if it occurs within the following limits: 5
+		seconds before and 5 seconds after the official start time. A competitor
+		who does not start within that space of time will be disqualified.
+		The start referee must inform the Referee of the start numbers and names
+		of the competitors who made a false start or have contravened the starting
+		rules.
