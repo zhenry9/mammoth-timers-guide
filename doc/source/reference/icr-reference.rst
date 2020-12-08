@@ -317,7 +317,7 @@ ICR Reference
 		the official list of results (ex aequo).
 		
 	617.3.4 
-		`The official result list must contain:
+		The official result list must contain:
 		- the name of the organising club or association
 		- the name of the competition, the site, event, category and gender
 		- the date of the race
@@ -330,7 +330,7 @@ ICR Reference
 		- the names of the official service companies, e.g. timing company, computer service etc.
 		- the codex and F value
 		- the penalty calculation sheet
-		- the signature of the Technical Delegate`
+		- the signature of the Technical Delegate
 		
 	617.3.5 
 		Nations must be indicated by the designated FIS code of three capital
