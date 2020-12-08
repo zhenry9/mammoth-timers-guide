@@ -187,9 +187,12 @@ ICR Reference
 		fixed interval after they have reported to the start referee, in accordance
 		with the decision of the Jury. The Start Referee informs the Jury as to
 		when (after which start number) a delayed competitor is starting.
-		613.6.3 In the case of irregular start intervals, the delayed competitor will start
+		
+	613.6.3 
+		In the case of irregular start intervals, the delayed competitor will start
 		according to art. 805.3. The start referee informs the Jury as to when
 		(after which start number) a delayed competitor is starting.
+		
 	613.7
 	Valid and False Starts
 		In competitions with a fixed start interval the competitor must start on the
@@ -199,3 +202,136 @@ ICR Reference
 		The start referee must inform the Referee of the start numbers and names
 		of the competitors who made a false start or have contravened the starting
 		rules.
+		
+
+615 The Finish
+--------------
+
+615.1 The Finish Area
+	
+.. glossary::
+
+
+	615.1.1 
+		The finish area should be plainly visible to competitors approaching the
+		finish. It must be wide with a gently sloped smooth run-out.
+		
+	615.1.2 
+		In setting the course with gates particular attention should be paid to
+		directing competitors across the finish on a natural line adapted to the
+		terrain.
+		
+	615.1.3 
+		The finish area is to be fenced in. Any unauthorised entry is not allowed.
+	
+	615.1.4 
+		Finish installations and closures should be set up or secured through
+		suitable protection measures.
+	
+	615.1.5 
+		For competitors who have finished their runs, a special area separated
+		from the actual finish, is to be provided. In this area or corridor, it should
+		be possible to make contact with the press (print, radio, TV and film)
+		located in the media corridors.
+		
+	615.1.6 
+		The competitor must leave the finish area through the official exit with all
+		the competition equipment used in the race.
+		
+	615.2 
+	The Finish and its Markings
+		The Finish is marked by two poles or vertical banners which may be
+		connected by a horizontal banner. In Downhill and Super-G races, the
+		finish must be no less than 15 metres wide and in Slalom and Giant
+		Slalom no less than 10 metres wide. In exceptional cases, the Jury may
+		decrease this distance on the spot for technical reasons or because of the
+		terrain. The width of the finish is considered to be the distance between
+		the two finish poles or banners. The supports used to mount the timing
+		devices must also be at least this far apart.
+		The timing supports can usually be placed behind the finish poles or
+		banners, on the downhill side. The finish line between the timing cells
+		must be clearly marked horizontally with colouring substance.
+		
+	615.3 
+	Crossing of the Finish Line and Recording of the Times
+		The finish line must be crossed:
+		- on both skis or
+		- on one ski or
+		- with both feet in case of a fall between the last gate and the finish line.
+		In this case the time is taken when any part of the competitor's body
+		stops the timekeeping system.
+	
+	615.4 
+	Report
+		The Finish Referee must make a report to the Referee immediately after
+		the race or the official training.
+		
+
+617 Calculation and Announcement of Results
+-------------------------------------------
+
+.. glossary::
+
+	617.1 
+	Unofficial Times
+		Times taken by the timekeepers must be considered unofficial times. They
+		should be posted on a score-board which should be readily visible from
+		the area provided for the competitors who have finished, and from the
+		press area. Whenever possible, unofficial times should be announced to
+		the public over loud-speakers.
+		
+	617.2 
+	Announcement of Unofficial Times and Disqualifications
+	
+	617.2.1 
+		As soon as possible after completion of the race, unofficial times and
+		disqualifications must be published on the official notice board at the
+		finish.
+		The time limit for protest is counted from the moment of this
+		announcement. (art. 643.4, 643.5)
+		
+	617.2.2 
+		Oral announcement of disqualifications may replace the publication on the
+		official notice board.
+		It can be decided that protests can be delivered verbally to the Referee at
+		the Finish within 15 minutes after the announcement of the
+		disqualification. Protests submitted after this are considered null and void.
+		The team captains must be informed beforehand of the announcement
+		and protest procedure.
+		
+	617.3 
+	Official Results
+	
+	617.3.1 
+		Results are determined from the official times of those competitors who
+		have been officially classified.
+	
+	617.3.2 
+		Combined results are calculated by adding together the race times
+		obtained in each event of the combined event. (or by adding the race
+		points)
+		
+	617.3.3 
+		If two or more competitors have the same time or the same number of
+		points, the competitor with the higher start number must be listed first on
+		the official list of results (ex aequo).
+		
+	617.3.4 
+		`The official result list must contain:
+		- the name of the organising club or association
+		- the name of the competition, the site, event, category and gender
+		- the date of the race
+		- all technical data such as the name of the competition course, altitudeat start and finish, vertical drop, FIS homologation number and, for Downhill and Super-G, the length of the course
+		- the names and nations of the members of the Jury
+		- for each run, the names and nations of the course setter and the forerunners, the number of gates (Slalom, Giant Slalom and Super-G between brackets number of direction changes) and the start time
+		- the weather, the snow conditions on the course and the air temperature at race start and finish recorded at time of race start.
+		- all details concerning the competitors, ranking, start number, code number, name and first name, nation (and possibly club), time and race points
+		- the start number, code number, name, first name and nation of those competitors who were not at the start, did not finish or were disqualified in each run
+		- the names of the official service companies, e.g. timing company, computer service etc.
+		- the codex and F value
+		- the penalty calculation sheet
+		- the signature of the Technical Delegate`
+		
+	617.3.5 
+		Nations must be indicated by the designated FIS code of three capital
+		letters (see FIS Bulletin or FIS Website).
