@@ -2,7 +2,6 @@
 General Best Practices
 ----------------------
 
-When things are running smoothly, being the timer can be the easiest job on the hill. When things fall apart, however, it can be one of the most difficult and easily most stressful. When a race is delayed for timing issues, the attention and oftentimes the frustration of all the visiting athletes, coaches and officials turns towards the guy in the timing shack. Adhering to some basic best practices can go a long way in avoiding this uncomfortable situation.
 
 Make a Plan and Prepare Before Race Day
 ---------------------------------------
@@ -23,3 +22,7 @@ Pictures here
 Expect the Unexpected
 ---------------------
 Almost every race series will involve at least one unplanned catastrophe. Following the above best practices will help you anticipate these events and put you in the best possible position to respond.
+
+Make it TIGHT
+-------------
+There should be no wiggle, play or slop in any piece of timing equipment you install. If something has room to move it will, and it will cause you problems later. If you are attaching a start block to a start post, make it **tight** until the teeth on the block bight into the wood. It should last for eight hours and hundreds of starts without moving at all. If you are drilling a hole for a finish post, use an appropriately sized bit and avoid the urge to ream the hole out. Use a rubber mallet to pound it in. The post should be **tight** in the snow, the gimble should be **tight** to the post, and the photocell should be **tight** to the gimble. Your aim should be **tight** to the other photecell and gimble setting screwed down **tight**. It may be freezing cold in the morning, but during the course of the day the sun will be higher in the sky and the air temperature may increase by twenty degrees or more. Things will loosen on their own, so start as tight as possible. These are just a few examples, but the concept should be applied to everything you do. It is much easier to spend the extra time to set something up correctly than it is to fix it during a race.
