@@ -66,7 +66,8 @@ Start Block Chain
   Backing chain to attach start block to start post.
 :Troubleshooting: 
  
- 
+
+.. _headset:
 Headset with TAG Plug Adaptor Attached
 --------------------------------------
 
