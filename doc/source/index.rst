@@ -20,6 +20,11 @@ Intro and Best Practices
    
 Setting up and Running a Race
 -----------------------------
+
+.. toctree::
+   :maxdepth: 2
+   :includehidden:
+   
    setup/setup
    race-day/race-day
    race-day/other-race-day-officials
