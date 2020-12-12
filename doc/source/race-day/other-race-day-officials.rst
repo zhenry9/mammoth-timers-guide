@@ -1,6 +1,6 @@
 Other Race Day Officials
 ========================
-*Relevant ICR section: :ref:`612 Start and Finish Officials`
+*Relevant ICR section: :ref:`612 Start and Finish Officials`*
 
 A note on volunteers
 --------------------
