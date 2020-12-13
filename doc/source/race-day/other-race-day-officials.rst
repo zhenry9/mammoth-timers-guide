@@ -32,14 +32,14 @@ For fixed interval races, the cadence is described in rule :term:`613.4`. Ten se
 	| Three
 	| Two
 	| One
-	| Go
+	| **Go**
 	| One
 	| Two
 	| Three
 	| Four
 	| Five"
 	
-A start clock such as the :doc:`../equipment/alge-asc3` can be very helpful for this process, and should be used for all fixed interval races. It is important to note however that according to rule :term:`U613.4` that the start clock cannot replace the verbal cadence for US Ski and Snowboard races.
+A start clock such as the :doc:`../reference/alge-asc3` can be very helpful for this process, and should be used for all fixed interval races. It is important to note however that according to rule :term:`U613.4` that the start clock cannot replace the verbal cadence for US Ski and Snowboard races.
 
 For irregular interval races (Slalom), the start cadence is described in rule :term:`805.3`. When it is safe for the racer to start, the starter says:
 
