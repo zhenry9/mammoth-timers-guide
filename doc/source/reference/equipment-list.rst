@@ -280,7 +280,7 @@ Homologated Timer
 Hand Watch
 ------------
 
-.. image:: ../img/equipment/hand-watch.jpg
+.. image:: ../img/equipment/handtiming-watch.jpg
   :scale: 10%
   :align: center
   
