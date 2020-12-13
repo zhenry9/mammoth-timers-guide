@@ -25,19 +25,19 @@ The starter is also responsible for giving the start cadence to the racer in the
 
 For fixed interval races, the cadence is described in rule :term:`613.4`. Ten seconds before a racer's assigned start, the starter gives a ten second warning. Five seconds before the assigned start time the starter counts down to one then gives the start command. The starter should then count back up to five to mark the legal start period described in rule :term:`613.7`. For example:
 
-|"Ten seconds
-|
-|Five
-|Four
-|Three
-|Two
-|One
-|Go
-|One
-|Two
-|Three
-|Four
-|Five"
+	| "Ten seconds
+	|
+| Five
+| Four
+| Three
+| Two
+| One
+| Go
+| One
+| Two
+| Three
+| Four
+| Five"
 	
 A start clock such as the :doc:`../equipment/alge-asc3` can be very helpful for this process, and should be used for all fixed interval races. It is important to note however that according to rule :term:`U613.4` that the start clock cannot replace the verbal cadence for US Ski and Snowboard races.
 
