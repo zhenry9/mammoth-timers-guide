@@ -277,6 +277,24 @@ Homologated Timer
 :Troubleshooting: 
   See CP 540 Section.
   
+Hand Watch
+------------
+
+.. image:: ../img/equipment/hand-watch.jpg
+  :scale: 10%
+  :align: center
+  
+:Model number(s): 
+  Hanhart Delta E 100
+:Homologation number(s):
+  N/A
+:Relevant rule(s):
+  :term:`611.2.2`
+:Description: 
+  Hand watch operating in time of day mode, capturing split times to the 1/100th of a second.
+:Troubleshooting: 
+  See document :doc:`hanhart-delta-e-100`
+  
 Wiring and Cables
 ~~~~~~~~~~~~~~~~~
 
