@@ -1,6 +1,6 @@
 Other Race Day Officials
 ========================
-*Relevant ICR section: `612 Start and Finish Officials`_
+*Relevant ICR section:* :ref:`612 Start and Finish Officials`
 
 A note on volunteers
 --------------------
@@ -24,7 +24,7 @@ Or:
 The starter is also responsible for giving the start cadence to the racer in the gate. This lets the racer know when it is their time to start. 
 
 For fixed interval races, the cadence is described in rule :term:`613.4`. Ten seconds before a racer's assigned start, the starter gives a ten second warning. Five seconds before the assigned start time the starter counts down to one then gives the start command. The starter should then count back up to five to mark the legal start period described in rule :term:`613.7`. For example:
-	"Ten seconds
+	``"Ten seconds
 	
 	Five
 	Four
@@ -36,13 +36,13 @@ For fixed interval races, the cadence is described in rule :term:`613.4`. Ten se
 	Two
 	Three
 	Four
-	Five"
+	Five"``
 	
 A start clock such as the :doc:alge-asc3 can be very helpful for this process, and should be used for all fixed interval races. It is important to note however that according to rule :term:`U613.4` that the start clock cannot replace the verbal cadence for US Ski and Snowboard races.
 
 For irregular interval races (Slalom), the start cadence is described in rule :term:`805.3`. When it is safe for the racer to start, the starter says:
-	"Ready
-	Go"
+	``"Ready
+	Go"``
 	
 The racer then has about ten seconds to legally start after the starter says go. The starter should coordinate with the timer and the jury to determine a safe start interval. This is normally done visually, for example when the racer on course reaches the second flush.
 
