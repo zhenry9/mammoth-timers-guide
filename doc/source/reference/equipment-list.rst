@@ -27,9 +27,11 @@ Start Block
   :align: center
   
 :Model number(s): 
-  HL 7-1, HL 7-1P
+  Tag-Heuer HL 7-1, HL 7-1P
 :Homologation number(s):
-  test
+  TAG.S54.03 (HL 7-1), TAG.S77T.09 (HL 7-1P)
+:Relevant rule(s):
+  :term:`611.2.1.1`
 :Description: 
   Start block for homologated races. Two separate internal contacts connected to two banana plug outputs on the bottom.
 :Troubleshooting: 
@@ -46,6 +48,8 @@ Start Wand
   N/A
 :Homologation number(s):
   N/A
+:Relevant rule(s):
+  N/A
 :Description: 
   Start wand to fit into TAG Start Block
 :Troubleshooting: 
@@ -61,6 +65,8 @@ Start Block Chain
 :Model number(s): 
   N/A
 :Homologation number(s):
+  N/A
+:Relevant rule(s):
   N/A
 :Description: 
   Backing chain to attach start block to start post.
@@ -80,6 +86,8 @@ Headset with TAG Plug Adaptor Attached
   
 :Homologation number(s):
   N/A
+:Relevant rule(s):
+  :term:`611.1`
 :Description: 
   Headset to fit into TAG HL 551 Com Box
 :Troubleshooting: 
@@ -96,6 +104,8 @@ Com Box
   HL 551
 :Homologation number(s):
   N/A
+:Relevant rule(s):
+  :term:`611.1`
 :Description: 
   Com Box to connect to TAG headsets.
 :Troubleshooting: 
@@ -111,6 +121,8 @@ Start Gater
 :Model number(s): 
   N/A
 :Homologation number(s):
+  N/A
+:Relevant rule(s):
   N/A
 :Description: 
   Blue plastic with velcro. Used to wrap around start post to protect wiring and connections from ski poles etc.
@@ -128,44 +140,12 @@ Electronic Start Clock
   Alge ASC3
 :Homologation number(s):
   N/A
+:Relevant rule(s):
+  :term:`611.2.1.3`
 :Description: 
   Two long adjoined banana-plug-to-TAG-plug adaptors. Used for connecting start block to wire spool.
 :Troubleshooting: 
-  **WIRING AND SETUP**
-  
-  1.	Attach bracket to clock before attaching bracket to post
-
-  2.	Connect the remote to the multiport slot on right side of clock, and screw down finger tight.
-
-  3.	Use timing wire to connect the start gate to the ‘start’ input on right side of clock, paying attention to polarity.
-  
-  **SYNCING TIME OF DAY**
-  
-  1.	When ready for sync, turn clock on.
-
-  2.	Top of clock says ‘store’. Hit Green #1 button on remote until bottom of clock says “no”. Hit Yellow #2 button to continue.
-
-  3.	Top of clock says ‘scan’. Hit Yellow #2 button to continue.
-
-  4.	Set time of day according to instructions from timekeeper. Use Green #1 button to increase digit, use Yellow #2 button to advance to next digit. 
-
-  5.	When correct time is displayed wait until ‘sync’ flashes on bottom of clock.
-
-  6.	Open start wand on signal from timekeeper to sync start clock.
-
-  7.	Clock says ‘ProGrA’ at top. Use Green #1 button to make sure bottom of clock says ‘01’. Hit Yellow #2 button to continue.
-  
-  **SETTING INTERVAL AND BRIGHTNESS**
-  
-  1.	Time of day is on top of clock, countdown on bottom right, and bib number on bottom left. Hold down arrow on remote until bib number disappears.
-
-  2.	Press Yellow button. Clock says ‘cd’ at top and interval time at bottom. Use Green button to select interval and Yellow to confirm.
-
-  3.	Hold Yellow button until clock reads ‘brgt’ at top. Press Green button until bottom reads ‘3’ and press Yellow to confirm.
-
-  4.	Remove remote and wire to start wand.
-
-  **If you have trouble, power cycle clock and start again.**
+  See document: :doc:`alge-asc3`
 
 
 Finish Area
@@ -182,6 +162,8 @@ Impulse Distributor
   HL 553
 :Homologation number(s):
   N/A
+:Relevant rule(s):
+  N/A
 :Description: 
   An impulse distributor with two inputs, each input with two outputs. Used to eliminate false impulses caused by electrical noise at Mammoth Mountain.
 :Troubleshooting: 
@@ -197,7 +179,9 @@ Photocell Pair
 :Model number(s): 
   HL 2-31, HL2-32, HL 2-33
 :Homologation number(s):
-  add
+  TAG.L47.03 (HL 2-31), TAG.L49T.10 (HL 2-32), TAG.L50.03 (HL 2-33), TAG.L48.03 (HL 2-35 R-E), TAG.L100.16 (HL 3-135)
+:Relevant rule(s):
+  :term:`611.2.1.2`
 :Description: 
   Matched pair of photocells for finish line or intermediate time.
 :Troubleshooting: 
@@ -213,6 +197,8 @@ Photocell Gimble
 :Model number(s): 
   N/A
 :Homologation number(s):
+  N/A
+:Relevant rule(s):
   N/A
 :Description: 
   Used to attach photocell to finish post.
@@ -230,6 +216,8 @@ Scored Finish Post
   N/A
 :Homologation number(s):
   N/A
+:Relevant rule(s):
+  N/A
 :Description: 
   Wooden post to hold photocells. Scored at the bottom on all four sides to allow for easy breakage upon impact, per FIS rules.
 :Troubleshooting: 
@@ -245,6 +233,8 @@ Cheese Wedge Pad
 :Model number(s): 
   N/A
 :Homologation number(s):
+  N/A
+:Relevant rule(s):
   N/A
 :Description: 
   Plastic and foam pad, used to protect finish posts and photocells.
@@ -262,6 +252,8 @@ Finish Panel
   N/A
 :Homologation number(s):
   N/A
+:Relevant rule(s):
+  N/A
 :Description: 
   Red or blue branded Mammoth panel on static SPM poles. Used to mark finish line.
 :Troubleshooting: 
@@ -277,7 +269,9 @@ Homologated Timer
 :Model number(s): 
   CP 540, CP 545
 :Homologation number(s):
-  N/A
+  TAG.070T.08 (CP 540), TAG.092.14 (CP 545)
+:Relevant rule(s):
+  :term:`611.2.1`
 :Description: 
   TAG Homogated ToD timing device. 4 input channels. See CP 540 Section.
 :Troubleshooting: 
@@ -285,6 +279,24 @@ Homologated Timer
   
 Wiring and Cables
 ~~~~~~~~~~~~~~~~~
+
+Pigtail
+-------
+
+.. image:: ../img/equipment/pigtail.jpg
+  :scale: 10%
+  :align: center
+  
+:Model number(s): 
+  N/A
+:Homologation number(s):
+  N/A
+:Relevant rule(s):
+  N/A
+:Description: 
+  Cable with banana plug on either end. Comes in a wide variety of lengths, the most basic cable for making timing connections.
+:Troubleshooting: 
+  Check for damage.
 
 TAG-to-TAG Cable
 ----------------
@@ -296,6 +308,8 @@ TAG-to-TAG Cable
 :Model number(s): 
   N/A
 :Homologation number(s):
+  N/A
+:Relevant rule(s):
   N/A
 :Description: 
   Short cable with single TAG style plugs on either end. Used mainly for connecting distributors to timers.
@@ -313,6 +327,8 @@ Tag-to-Banana Cable
   N/A
 :Homologation number(s):
   N/A
+:Relevant rule(s):
+  N/A
 :Description: 
   Short cable with single TAG style plugs on one end and a double banana plug on the other end. Used for connecting impulse distributors to shack timing boards, or for connecting photocells to wire spools.
 :Troubleshooting: 
@@ -328,6 +344,8 @@ Long Start Wand Cable
 :Model number(s): 
   N/A
 :Homologation number(s):
+  N/A
+:Relevant rule(s):
   N/A
 :Description: 
   Two long adjoined banana-plug-to-TAG-plug adaptors. Used for connecting start block to wire spool.
@@ -345,6 +363,8 @@ Short Start Wand Cable
   N/A
 :Homologation number(s):
   N/A
+:Relevant rule(s):
+  N/A
 :Description: 
   Two short adjoined banana-plug-to-TAG-plug adaptors. Used for connecting start block to wire spool.
 :Troubleshooting: 
@@ -360,6 +380,8 @@ RS-232 Cable with USB Adaptor
 :Model number(s): 
   N/A
 :Homologation number(s):
+  N/A
+:Relevant rule(s):
   N/A
 :Description: 
   Serial cable with USB adaptor attached. Used to connect TAG timing devices to computer.
@@ -377,8 +399,46 @@ Three Pair Spool
   N/A
 :Homologation number(s):
   N/A
+:Relevant rule(s):
+  N/A
 :Description: 
   Wire spool with three pairs, normally labeled Time 1, Time 2, and COM. Used especially for connecting homologated start boxes and headsets to hill wire.
+:Troubleshooting: 
+  Check for obvious damage. If there is no obvious damage, use line break detector to determine location of damaged section.
+  
+Two Pair Spool
+----------------
+
+.. image:: ../img/equipment/2-pair-spool.jpg
+  :scale: 10%
+  :align: center
+  
+:Model number(s): 
+  N/A
+:Homologation number(s):
+  N/A
+:Relevant rule(s):
+  N/A
+:Description: 
+  Wire spool with two pairs, normally labeled Time 1 and COM. Used especially for connecting start blocks and headsets for non-homolgated races.
+:Troubleshooting: 
+  Check for obvious damage. If there is no obvious damage, use line break detector to determine location of damaged section.
+  
+Hand Spool
+----------------
+
+.. image:: ../img/equipment/hand-spool.jpg
+  :scale: 10%
+  :align: center
+  
+:Model number(s): 
+  N/A
+:Homologation number(s):
+  N/A
+:Relevant rule(s):
+  N/A
+:Description: 
+  Small metal wire spool with two pairs, normally labeled Time and Com. Useful for making photocell connections at the finish, or for running scoreboard communications.
 :Troubleshooting: 
   Check for obvious damage. If there is no obvious damage, use line break detector to determine location of damaged section.
   

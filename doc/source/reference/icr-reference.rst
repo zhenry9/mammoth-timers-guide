@@ -157,9 +157,18 @@ ICR Reference
 		10 seconds before the start, the starter will tell each competitor "10
 		seconds". Five seconds before the start, the starter should count "5, 4, 3,
 		2, 1" and then give the start command "Go - Partez - Los".
-		(For Slalom see art. 805.3).
-		If possible, an automatic audible signal is to be used (art. 611.2.1.3). The
+		(For Slalom see art. :term:`805.3`).
+		If possible, an automatic audible signal is to be used (art. :term:`611.2.1.3`). The
 		starter will let the competitor see the start clock.
+		
+	U613.4 
+	Start Signals (from ACR)
+		10 seconds before the start, the starter will tell each competitor "10
+		seconds". Five seconds before the start, the starter should count "5, 4, 3,
+		2, 1" and then give the start command "Go - Partez - Los".
+		(For Slalom see art. :term:`805.3`).
+		If possible, an automatic audible signal is to be used (art. :term:`611.2.1.3`). The
+		starter will let the competitor see the start clock. Use of start clock/beep does not replace verbal command.
 		
 	613.5 
 	Start Timing
@@ -190,7 +199,7 @@ ICR Reference
 		
 	613.6.3 
 		In the case of irregular start intervals, the delayed competitor will start
-		according to art. 805.3. The start referee informs the Jury as to when
+		according to art. :term:`805.3`. The start referee informs the Jury as to when
 		(after which start number) a delayed competitor is starting.
 		
 	613.7
@@ -335,3 +344,10 @@ ICR Reference
 	617.3.5 
 		Nations must be indicated by the designated FIS code of three capital
 		letters (see FIS Bulletin or FIS Website).
+		
+	805.3 
+	Start Signal for Slalom
+		As soon as the order for the next start is received, the starter gives the
+		competitor the warning "Ready", "Attention", "Achtung" and a few seconds
+		later the start signal "Go! Partez! Los!". The competitor must start within
+		about 10 seconds after this order.
