@@ -25,21 +25,21 @@ The starter is also responsible for giving the start cadence to the racer in the
 
 For fixed interval races, the cadence is described in rule :term:`613.4`. Ten seconds before a racer's assigned start, the starter gives a ten second warning. Five seconds before the assigned start time the starter counts down to one then gives the start command. The starter should then count back up to five to mark the legal start period described in rule :term:`613.7`. For example:
 
-	|"Ten seconds
-	|
-	|Five
-	|Four
-	|Three
-	|Two
-	|One
-	|Go
-	|One
-	|Two
-	|Three
-	|Four
-	|Five"
+|"Ten seconds
+|
+|Five
+|Four
+|Three
+|Two
+|One
+|Go
+|One
+|Two
+|Three
+|Four
+|Five"
 	
-A start clock such as the :doc:../equipment/alge-asc3 can be very helpful for this process, and should be used for all fixed interval races. It is important to note however that according to rule :term:`U613.4` that the start clock cannot replace the verbal cadence for US Ski and Snowboard races.
+A start clock such as the :doc:`../equipment/alge-asc3` can be very helpful for this process, and should be used for all fixed interval races. It is important to note however that according to rule :term:`U613.4` that the start clock cannot replace the verbal cadence for US Ski and Snowboard races.
 
 For irregular interval races (Slalom), the start cadence is described in rule :term:`805.3`. When it is safe for the racer to start, the starter says:
 
@@ -52,4 +52,4 @@ Handtimers
 ----------
 *Relevant ICR sections:* :term:`611.2.2`, :term:`612.5`
 
-Handtimers operate the manual (System C) backup timing system. They are stationed at the start and the finish of the course and use a :doc:../equipment/hand-watch to take and record start and finish times of day. Hand times are used in the :doc:`TDTR` to verify electronic timing system accuracy, and in the event of a failure of both electronic timing systems hand times are used to calculate race times. In an ideal world hand times are not used to calculate results, but it can and does happen. It is therefore an absolutely essential position and care should be taken that the hand watches are setup correctly and the hand timing staff are properly trained.
+Handtimers operate the manual (System C) backup timing system. They are stationed at the start and the finish of the course and use a :doc:`../equipment/hand-watch` to take and record start and finish times of day. Hand times are used in the :doc:`TDTR` to verify electronic timing system accuracy, and in the event of a failure of both electronic timing systems hand times are used to calculate race times. In an ideal world hand times are not used to calculate results, but it can and does happen. It is therefore an absolutely essential position and care should be taken that the hand watches are setup correctly and the hand timing staff are properly trained.
