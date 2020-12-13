@@ -18,7 +18,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Mammoth Timers Guide'
+project = 'Mammoth Timers\' Guide'
 copyright = '2020, Zach Henry'
 author = 'Zach Henry'
 
