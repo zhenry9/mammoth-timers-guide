@@ -2,7 +2,7 @@ Alge ASC3 Start Clock
 =====================
 *Relevant ICR sections:* :term:`611.2.1.3`, :term:`613.4`, :term:`U613.4`, :term:`613.6.2`, :term:`613.6.3`, :term:`613.7`
 
-.. image:: ../img/equipment/asc3-start-clock.jpg
+.. image:: ../../img/equipment/asc3-start-clock.jpg
   :scale: 10%
   :align: center
 
