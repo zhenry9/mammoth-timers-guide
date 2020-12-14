@@ -60,3 +60,7 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 hoverxref_auto_ref = True
+
+latex_elements = {
+    'preamble': '\setcounter{tocdepth}{2}'
+    }
