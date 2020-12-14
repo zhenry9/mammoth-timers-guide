@@ -51,7 +51,7 @@ Equipment
    
    equipment/equipment-list
    equipment/equipment-kits
-   equipment/in-depth
+   In-depth Guides <equipment/in-depth>
    
 Venues
 -------
