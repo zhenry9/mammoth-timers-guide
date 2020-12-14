@@ -26,10 +26,10 @@ Setting up and Running a Race
    :includehidden:
    
    setup/setup
-   race-day/race-day
-   race-day/other-race-day-officials
    reference/radio-protocol
    reference/split-second
+   race-day/race-day
+   race-day/other-race-day-officials
    
 Paperwork and Documentation
 ---------------------------

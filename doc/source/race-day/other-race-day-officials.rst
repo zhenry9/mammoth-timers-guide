@@ -14,7 +14,7 @@ The starter has two main jobs:
 	- **Keep the timer informed of who is in the gate**
 	- **Give the start cadence to competitors**
 	
-The starter is in communication with the timer in the finish shack at all times using a :ref:`headset`. The starter acts as the timer's eyes and ears in the start area. It is crucial that the timer knows clearly which competitors are on course or getting ready to start. As a competitor enters the start gate, the starter reads his or her bib number to the timer. When the competitor starts, the starter reiterates the starting competitor's bib number and reads the bib number of the next competitor in the gate. 
+The starter is in communication with the timer in the finish shack at all times using a :ref:`headset <headset>`. The starter acts as the timer's eyes and ears in the start area. It is crucial that the timer knows clearly which competitors are on course or getting ready to start. As a competitor enters the start gate, the starter reads his or her bib number to the timer. When the competitor starts, the starter reiterates the starting competitor's bib number and reads the bib number of the next competitor in the gate. 
 
 In practice, this sounds like:
 	"Bib 12 on course, bib 13 in the gate."
