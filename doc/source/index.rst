@@ -28,13 +28,6 @@ Setting up and Running a Race
    setup/setup
    race-day/race-day
    race-day/other-race-day-officials
-  
-------------------
-
-.. toctree::
-   :maxdepth: 2
-   :includehidden:
-   
    reference/radio-protocol
    reference/split-second
    
@@ -49,14 +42,27 @@ Paperwork and Documentation
    paperwork/eet
    paperwork/penalty-calculation
  
-Equipment and Venues 
----------------------
+Equipment
+-----------
 
 .. toctree::
    :maxdepth: 2
    :includehidden:
    
-   reference/equipment
+   equipment/equipment-list
+   equipment/equipment-kits
+   equipment/in-depth
+   
+Venues
+-------
+
+.. toctree::
+   :maxdepth: 2
+   :includehidden:
+   
+   venues/mountain-layout
+   venues/race-venues
+   venues/timing-shacks
    
 Reference   
 --------------------

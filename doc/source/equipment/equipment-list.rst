@@ -143,9 +143,9 @@ Electronic Start Clock
 :Relevant rule(s):
   :term:`611.2.1.3`
 :Description: 
-  Two long adjoined banana-plug-to-TAG-plug adaptors. Used for connecting start block to wire spool.
+  Electronic start clock displaying time of day, along with a visual and acoustic start cadence.
 :Troubleshooting: 
-  See document: :doc:`alge-asc3`
+  See document: :doc:`in-depth/alge-asc3`
 
 
 Finish Area
@@ -293,7 +293,7 @@ Hand Watch
 :Description: 
   Hand watch operating in time of day mode, capturing split times to the 1/100th of a second.
 :Troubleshooting: 
-  See document :doc:`hanhart-delta-e-100`
+  See document :doc:`in-depth/hanhart-delta-e-100`
   
 Wiring and Cables
 ~~~~~~~~~~~~~~~~~
@@ -461,17 +461,3 @@ Hand Spool
   Check for obvious damage. If there is no obvious damage, use line break detector to determine location of damaged section.
   
   
-Equipment Kits
-~~~~~~~~~~~~~~
-
-:Start Kit:
-  - 2 x `Start Block`_
-  - 2 x `Start Wand`_
-  - 1 x `Start Block Chain`_
-  - 2 x `Headset with TAG Plug Adaptor Attached`_
-  - 2 x `Com Box`_
-  - 1 x `Long Start Wand Cable`_
-  - 1 x `Short Start Wand Cable`_
-  - 2 x `Pigtail`_
-  - 1 x `Start Gater`_
-  - 1 x `Electronic Start Clock`_ (regular interval races only)
