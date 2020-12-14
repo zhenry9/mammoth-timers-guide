@@ -26,7 +26,7 @@ Syncing Time of Day
   6. Open start wand on signal from timekeeper to sync start clock.
   7. Clock says 'ProGrA' at top. Use Green #1 button to make sure bottom of clock says '01'. Hit Yellow #2 button to continue.
   
-Setting Interval and Brighness
+Setting Interval and Brightness
 ------------------------------
   
   1. Time of day is on top of clock, countdown on bottom right, and bib number on bottom left. Hold down arrow on remote until bib number disappears.
