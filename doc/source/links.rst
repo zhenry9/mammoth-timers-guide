@@ -11,3 +11,8 @@ Chief of Timing and Calc Study Guides
 --------------------------------------
 - `US Ski and Snowboard Timing and Calc 1 Study Guide <https://usskiandsnowboard.org/sites/default/files/files-resources/files/2020/TC%201%20STUDY%20GUIDE%2020-21.pdf>`_
 - `US Ski and Snowboard Timing and Calculations Manual <https://usskiandsnowboard.org/sites/default/files/files-resources/files/2020/TC%201%20STUDY%20GUIDE%2020-21.pdf>`_
+
+Other
+-----
+- `Timing Guys timers' forums <http://www.timing-guys.com>`_
+- `Phoenix Sports <http://www.phoenix-sports.com>`_
