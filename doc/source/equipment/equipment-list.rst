@@ -23,8 +23,8 @@ Start Block
 -----------
 
 .. image:: ../img/equipment/start-box.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   Tag-Heuer HL 7-1, HL 7-1P
@@ -41,8 +41,8 @@ Start Wand
 -----------
 
 .. image:: ../img/equipment/start-wand.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -59,8 +59,8 @@ Start Block Chain
 ------------------
 
 .. image:: ../img/equipment/start-chain.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -79,8 +79,8 @@ Headset with TAG Plug Adaptor Attached
 --------------------------------------
 
 .. image:: ../img/equipment/headset.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   
@@ -97,8 +97,8 @@ Com Box
 -----------
 
 .. image:: ../img/equipment/com-box.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   HL 551
@@ -115,8 +115,8 @@ Start Gater
 -----------
 
 .. image:: ../img/equipment/start-gater.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -133,8 +133,8 @@ Electronic Start Clock
 ----------------------
 
 .. image:: ../img/equipment/asc3-start-clock.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   Alge ASC3
@@ -155,8 +155,8 @@ Impulse Distributor
 -------------------
 
 .. image:: ../img/equipment/impulse-distributor.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   HL 553
@@ -173,8 +173,8 @@ Photocell Pair
 --------------
 
 .. image:: ../img/equipment/photocell-pair.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   HL 2-31, HL2-32, HL 2-33
@@ -191,8 +191,8 @@ Photocell Gimble
 ----------------
 
 .. image:: ../img/equipment/photocell-gimble.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -209,8 +209,8 @@ Scored Finish Post
 ------------------
 
 .. image:: ../img/equipment/scored-finish-post.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -227,8 +227,8 @@ Cheese Wedge Pad
 ----------------
 
 .. image:: ../img/equipment/cheese-wedge.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -245,8 +245,8 @@ Finish Panel
 ------------
 
 .. image:: ../img/equipment/finish-panel.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -263,8 +263,8 @@ Homologated Timer
 ----------------
 
 .. image:: ../img/equipment/cp540.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   CP 540, CP 545
@@ -281,8 +281,8 @@ Hand Watch
 ------------
 
 .. image:: ../img/equipment/handtiming-watch.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   Hanhart Delta E 100
@@ -302,8 +302,8 @@ Pigtail
 -------
 
 .. image:: ../img/equipment/pigtail.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -320,8 +320,8 @@ TAG-to-TAG Cable
 ----------------
 
 .. image:: ../img/equipment/tag-to-tag-cable.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -338,8 +338,8 @@ Tag-to-Banana Cable
 -------------------
 
 .. image:: ../img/equipment/tag-to-banana-cable.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -356,8 +356,8 @@ Long Start Wand Cable
 ---------------------
 
 .. image:: ../img/equipment/long-wand-cable.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -374,8 +374,8 @@ Short Start Wand Cable
 ----------------------
 
 .. image:: ../img/equipment/short-wand-cable.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -392,8 +392,8 @@ RS-232 Cable with USB Adaptor
 -----------------------------
 
 .. image:: ../img/equipment/rs232-cable-with-usb-adaptor.jpg
-	:scale: 10%
-	:align: center
+	:width: 25%
+	:align: left
 	
 :Model number(s): 
   N/A
@@ -410,8 +410,8 @@ Three Pair Spool
 ----------------
 
 .. image:: ../img/equipment/3-pair-spool.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -428,8 +428,8 @@ Two Pair Spool
 ----------------
 
 .. image:: ../img/equipment/2-pair-spool.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
@@ -446,8 +446,8 @@ Hand Spool
 ----------------
 
 .. image:: ../img/equipment/hand-spool.jpg
-  :scale: 10%
-  :align: center
+  :width: 25%
+  :align: left
   
 :Model number(s): 
   N/A
