@@ -12,6 +12,32 @@ Setting System Time
 -------------------
 The internal system time should be set at least twice a year following time changes for daylight savings, and any time it drifts more than 30 seconds from the actual time of day.
 
+Step 1 - Reset the watch
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: ../../img/hanhart-delta-e-100/1-reset-arrows.jpg
+	:width: 20%
+	
+Press the MODE button (bottom middle) and START/STOP button (top right) simultaneously. The top and bottom time lines will display all zeros and the mode bar will show 'LAP'
+
+Step 2 - Set 'TIME' mode
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: ../../img/hanhart-delta-e-100/2-time-mode-arrows.jpg
+	:width: 20% 
+	
+Press the MODE button (bottom middle) twice. The mode bar will show 'TIME' and the top line will show the system time. The bottom line will still show all zeros.
+
+Step 3 - Set time
+~~~~~~~~~~~~~~~~~
+
+.. image:: ../../img/hanhart-delta-e-100/set-time.jpg
+	:width: 20% 
+	
+Press the green DISPL MEM button (bottom left). The first hour digit will begin flashing. Use the black SPLIT/LAP button (top left) to cycle through numbers and the DISPL MEM button to advance digits. Set a time at least a minute ahead of the actual time of day, according to an atomic clock, a computer synced to internet time, or other accurate timepiece.
+
+Watch the actual time of day on your accurate timepiece, and when it matches the time of day on the hand watch press the MODE button (bottom middle). You should now have a running system time on the top line that reflects the accurate time of day.
+
 Syncing Hand Watches
 --------------------
 All hand watches should be synced prior to the start of the first run, following rule :term:`611.2.2`. They should be synced to the same clock used to sync the System A and System B electronic timers. Perform the following steps on all watches being synced.
@@ -30,7 +56,7 @@ Step 2 - Set 'TIME' mode
 .. image:: ../../img/hanhart-delta-e-100/2-time-mode-arrows.jpg
 	:width: 20% 
 	
-Press the MODE button (bottom middle) twice. The mode bar will show 'TIME' and the top line will show the time of day. This should be accurate to the actual time of day and within 30 seconds of all other hand watches being synced. The bottom line will still show all zeros.
+Press the MODE button (bottom middle) twice. The mode bar will show 'TIME' and the top line will show the system time. This should be within 30 seconds of the actual time of day and all other hand watches being synced. The bottom line will still show all zeros.
 
 Step 3 - Set the split time
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -38,7 +64,7 @@ Step 3 - Set the split time
 .. image:: ../../img/hanhart-delta-e-100/3-set-split-arrows.jpg
 	:width: 20%
 	
-Press the SPLIT/LAP button (top left) and START/STOP button (top right) simultaneously. The bottom (split time) line will show the next minute from the system time on the top line. For example, if the system time is 12:04:11, the split time will be set at 12:05:00.00. Note that the first hour digit is omitted, so the watch will display 2:05:00.00.
+Press the SPLIT/LAP button (top left) and START/STOP button (top right) simultaneously. The bottom (split time) line will show the next minute from the system time on the top line. For example, if the system time is 12:04:11, the split time will be set at 12:05:00.00. Note that the first digit of the hour is omitted, so the watch will display '2:05:00.00'.
 
 All watches being synced should be set to the same split time.
 
