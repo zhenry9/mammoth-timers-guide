@@ -18,7 +18,7 @@ Step 1 - Reset the watch
 .. image:: ../../img/hanhart-delta-e-100/1-reset-arrows.jpg
 	:width: 20%
 	
-Press the MODE button (bottom middle) and START/STOP button (top right) simultaneously. The top and bottom time lines will display all zeros and the mode bar will show 'LAP'
+Press the MODE button (bottom middle) and START/STOP button (top right) simultaneously. The top and bottom time lines will display all zeros and the mode bar will show 'LAP'.
 
 Step 2 - Set 'TIME' mode
 ~~~~~~~~~~~~~~~~~~~~~~~~
