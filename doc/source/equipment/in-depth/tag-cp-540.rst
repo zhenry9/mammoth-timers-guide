@@ -43,19 +43,19 @@ First, navigate to :menuselection:`F --> Synchro --> Manual or External` on both
 
 .. image:: ../../img/cp540/sync-howto/enter-date.jpg
 	:width: 40%
-	:align: left
+.	:align: left
 
 Next, enter the time you plan to sync. Make sure to give yourself enough time to be ready and accurate.
 
 .. image:: ../../img/cp540/sync-howto/enter-time.jpg
 	:width: 40%
-	:align: left
+.	:align: left
 	
 Both timers should now display 'Ready For Synchro'. **Make sure to unblock input 1 and turn on your distributors before you sync!**
 
 .. image:: ../../img/cp540/sync-howto/ready-to-sync.jpg
 	:width: 40%
-	:align: left
+.	:align: left
 	
 Traditionally the timers have been synced using an impulse from the start wand. However, this is no longer really correct. The `FIS Timing Booklet <https://assets.fis-ski.com/image/upload/v1602156953/fis-prod/assets/AlpineTimingbooklet-V2_59-E.pdf>`_ states:
 	The synchronisation impulse for all timers must come from one single source (one contact) for all timing devices.
@@ -85,13 +85,13 @@ Make sure you are holding the 'ON' button down for at least 5 seconds.
 
 If the CP 540 still won't turn on, the most likely cause is dead batteries. The first thing to do is check and replace the 5 AA batteries in the back of the timer.
 
-If the CP 540 has been run until the batteries die completely, it may not turn on even after replacing the batteries or connecting to hard power. To fix this, remove the batter cover and insert a paperclip or something similar into the hole labeled 'RESET' and press rapidly at least 40 times (really). The CP 540 should then start up normally.
+If the CP 540 has been run until the batteries die completely, it may not turn on even after replacing the batteries or connecting to hard power. To fix this, remove the battery cover and insert a paperclip or something similar into the hole labeled 'RESET' and press rapidly at least 40 times (really). The CP 540 should then start up normally.
 
 .. image:: ../../img/cp540/cp-540-reset-button.jpg
 	:width: 40%
 	:align: left
 
-If it still doesn't, inspect the inputs on the back for damage. Lightning can cause a massive power surge on the timing lines. This will require the timer to be sent in for service.
+If it still doesn't turn on, inspect the inputs on the back for damage. Lightning can cause a massive power surge on the timing lines. This will require the timer to be sent in for service.
 
 Printer keeps turning off
 ~~~~~~~~~~~~~~~~~~~~~~~~~
