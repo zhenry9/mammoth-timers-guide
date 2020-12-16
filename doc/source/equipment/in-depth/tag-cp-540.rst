@@ -1,7 +1,7 @@
 TAG-Heuer CP 540/545
 ====================
-*Relevant ICR section:* :term:`611.2.1`
-*Full manual:* `<https://reliableracing.com/downloads/cp540.pdf>`_
+| *Relevant ICR section:* :term:`611.2.1`
+| *Full manual:* `<https://reliableracing.com/downloads/cp540.pdf>`_
 
 .. image:: ../../img/equipment/cp540.jpg
   :width: 50%
@@ -32,3 +32,46 @@ To set the lock times, navigate to :menuselection:`F --> Parameters --> Lock Tim
 Here is an example of a timer with a :ref:`start gate <Start Block>` connected to input 1 with a lock time of 1.00 second, and :ref:`photocells <Photocell Pair>` for interval times and the finish connected to inputs 2-4 with lock times of 0.10 s.
 
 .. image:: ../../img/cp540/lock-times.jpg
+	:width: 40%
+	:align: left
+
+Syncing timers
+--------------
+System A and System B timers must be synced to the time of day and to each other, within 1/1,000th of a second (0.001 s) per the `FIS Timing Booklet <https://assets.fis-ski.com/image/upload/v1602156953/fis-prod/assets/AlpineTimingbooklet-V2_59-E.pdf>`_. According to rule :term:`611.2.1`, synchronization must occur as close as possible to the start of the first run of the day. It is no longer required to sync timers between runs, genders, or races occuring on the same day. A good rule of thumb for when to sync is around 15 minutes before the scheduled start of the first run.
+
+First, navigate to :menuselection:`F --> Synchro --> Manual or External` on both timers and set the date.
+
+.. image:: ../../img/cp540/sync-howto/enter-date.jpg
+	:width: 40%
+	:align: left
+
+Next, enter the time you plan to sync. Make sure to give yourself enough time to be ready and accurate.
+
+.. image:: ../../img/cp540/sync-howto/enter-time.jpg
+	:width: 40%
+	:align: left
+	
+Both timers should now display 'Ready For Synchro'. **Make sure to unblock input 1 and turn on your distributors before you sync!**
+
+.. image:: ../../img/cp540/sync-howto/ready to sync.jpg
+	:width: 40%
+	:align: left
+	
+Traditionally the timers have been synced using an impulse from the start wand. However, this is no longer really correct. The `FIS Timing Booklet <https://assets.fis-ski.com/image/upload/v1602156953/fis-prod/assets/AlpineTimingbooklet-V2_59-E.pdf>`_ states:
+	The synchronisation impulse for all timers must come from one single source (one contact) for all timing devices.
+A homologated start wand contains two contacts by definition, therefore should not be used to sync the timers. The best and easiest way to legally sync the timers is to use a :ref:`Push Button Switch`. This contains one single contact and is easy to set up in the timing shack. To do so, piggy back each banana plug from the switch into your start connections, in this example TIMING 1 and TIMING 2.
+
+picture here
+
+Now, looking at your master timepiece (normally the PC system time), press the push button switch at exactly the time shown on the top of the CP 540. The timing tape should now show:
+	| SYNCHRO AT	hh:mm:ss
+	| DATE <DMY>	dd/mm/yy
+	
+For example:
+
+picture here
+
+The timers are now synced. The final step is to confirm the synchronization, per the `FIS Timing Booklet <https://assets.fis-ski.com/image/upload/v1602156953/fis-prod/assets/AlpineTimingbooklet-V2_59-E.pdf>`_:
+	After synchronisation is done, a new impulse must be sent by the same source to check synchronisation accuracy on Systems A and B. The maximum allowed difference between system A and B is 0.001 seconds.
+	
+In practice this is done by pressing the push button switch again around one minute (but not less) after sync. Since we are using a single contact switch, the synchronization will likely be exact down to the 1/10,000th of a second, but it is legal as long as it is within 1/1,000th. Make a note of both the sync time and the sync+1 confirmation times, as these will be used in the :ref:`TDTR`.
