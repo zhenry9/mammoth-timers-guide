@@ -17,7 +17,7 @@ The 'F' button is used to access the menu, and the arrows and return key buttons
 
 Turning on the printer
 ~~~~~~~~~~~~~~~~~~~~~~
-The printer should be on by defualt, although it can shut itself of if running on low battery power. The printer must be on at all times according to FIS rules (:term:`611.2.1`). To ensure that it is on, navigate to :menuselection:`F --> Printer --> On`.
+The printer should be on by defualt, although it can shut itself of if the timer is running on low battery power. The printer must be on at all times according to FIS rules (:term:`611.2.1`). To ensure that it is on, navigate to :menuselection:`F --> Printer --> On`.
 
 Setting timing precision
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -53,7 +53,7 @@ Next, enter the time you plan to sync. Make sure to give yourself enough time to
 	
 Both timers should now display 'Ready For Synchro'. **Make sure to unblock input 1 and turn on your distributors before you sync!**
 
-.. image:: ../../img/cp540/sync-howto/ready to sync.jpg
+.. image:: ../../img/cp540/sync-howto/ready-to-sync.jpg
 	:width: 40%
 	:align: left
 	
@@ -75,3 +75,24 @@ The timers are now synced. The final step is to confirm the synchronization, per
 	After synchronisation is done, a new impulse must be sent by the same source to check synchronisation accuracy on Systems A and B. The maximum allowed difference between system A and B is 0.001 seconds.
 	
 In practice this is done by pressing the push button switch again around one minute (but not less) after sync. Since we are using a single contact switch, the synchronization will likely be exact down to the 1/10,000th of a second, but it is legal as long as it is within 1/1,000th. Make a note of both the sync time and the sync+1 confirmation times, as these will be used in the :ref:`TDTR`.
+
+Troubleshooting
+---------------
+
+CP 540 won't turn on
+~~~~~~~~~~~~~~~~~~~~
+Make sure you are holding the 'ON' button down for at least 5 seconds.
+
+If the CP 540 still won't turn on, the most likely cause is dead batteries. The first thing to do is check and replace the 5 AA batteries in the back of the timer.
+
+If the CP 540 has been run until the batteries die completely, it may not turn on even after replacing the batteries or connecting to hard power. To fix this, remove the batter cover and insert a paperclip or something similar into the hole labeled 'RESET' and press rapidly at least 40 times (really). The CP 540 should then start up normally.
+
+.. image:: ../../img/cp540/cp-540-reset-button.jpg
+	:width: 40%
+	:align: left
+
+If it still doesn't, inspect the inputs on the back for damage. Lightning can cause a massive power surge on the timing lines. This will require the timer to be sent in for service.
+
+Printer keeps turning off
+~~~~~~~~~~~~~~~~~~~~~~~~~
+This happens when running on low battery power. Make sure the batteries are good, and make sure the connection to hard power is secure. A loose or unreliable power cable can cause the timer to draw from battery power and automatically turn off the printer.
