@@ -3,7 +3,7 @@ Hanhart Delta E 100
 *Relevant ICR Section:* :term:`611.2.2`
 
 .. image:: ../../img/equipment/handtiming-watch.jpg
-  :scale: 10%
+  :width: 50%
   :align: center
   
 The Hanhart Delta E 100 is a Time of Day (ToD) stopwatch used to take handtimes. The top line is the system time of the watch, which should be set at least twice a year following daylight savings time. The system times of all the watches do not have to be exactly the same, but should be within about 30 seconds of each other and the actual time of day. The middle bar shows the mode the watch is in. The bottom line shows the split time. This is what is synced before each race, and is not necessarily the same as the system time on the top line.

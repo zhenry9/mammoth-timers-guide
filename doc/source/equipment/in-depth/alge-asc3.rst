@@ -3,7 +3,7 @@ Alge ASC3 Start Clock
 *Relevant ICR sections:* :term:`611.2.1.3`, :term:`613.4`, :term:`U613.4`, :term:`613.6.2`, :term:`613.6.3`, :term:`613.7`
 
 .. image:: ../../img/equipment/asc3-start-clock.jpg
-  :scale: 10%
+  :width: 50%
   :align: center
 
 For fixed interval races (DH, SG, GS), a clock with an acoustic start signal should be used. The Alge ASC3 start clock provides both an acoustic and visual cadence to mark legal starts. It is important to note that for US Ski and Snowboard races the starter must also provide a verbal cadence in addition to the cadence provided by the start clock. (:term:`U613.4`)
