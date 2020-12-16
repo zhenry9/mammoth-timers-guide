@@ -20,7 +20,7 @@ Step 1 - Reset the watch
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../../img/hanhart-delta-e-100/1-reset-arrows.jpg
-	:size: 20%
+	:width: 20%
 	
 Press the MODE button (bottom middle) and START/STOP button (top right) simultaneously. The top and bottom time lines will display all zeros and the mode bar will show 'LAP'
 
@@ -28,7 +28,7 @@ Step 2 - Set 'TIME' mode
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../../img/hanhart-delta-e-100/2-time-mode-arrows.jpg
-	:size: 20% 
+	:width: 20% 
 	
 Press the MODE button (bottom middle) twice. The mode bar will show 'TIME' and the top line will show the time of day. This should be accurate to the actual time of day and within 30 seconds of all other hand watches being synced. The bottom line will still show all zeros.
 
@@ -36,7 +36,7 @@ Step 3 - Set the split time
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../../img/hanhart-delta-e-100/3-set-split-arrows.jpg
-	:size: 20%
+	:width: 20%
 	
 Press the SPLIT/LAP button (top left) and START/STOP button (top right) simultaneously. The bottom (split time) line will show the next minute from the system time on the top line. For example, if the system time is 12:04:11, the split time will be set at 12:05:00.00. Note that the first hour digit is omitted, so the watch will display 2:05:00.00.
 
@@ -46,7 +46,7 @@ Step 4 - Sync Watches
 ~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../../img/hanhart-delta-e-100/4-sync-arrows.jpg
-	:size: 20%
+	:width: 20%
 	
 Watch the actual time of day on the same clock used to sync System A and System B, and at the appropriate time press the START/STOP button (top right) on all watches simultaneously. This will sync the watches to the actual Time of Day, to System A and System B, and to each other. This can be accomplished in several ways. You can hold two watches in each hand, or hold all the watches against the edge of a table.
 
