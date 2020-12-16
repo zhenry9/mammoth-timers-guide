@@ -29,6 +29,6 @@ The lock time is the interval following an impulse that the timer will not accep
 
 To set the lock times, navigate to :menuselection:`F --> Parameters --> Lock Time --> Input #` and enter the desired time. The minimum is 0.01 s. After setting, the lock time will be printed to the tape.
 
-Here is an example of a timer with a start gate connected to input 1 with a lock time of 1.00 second, and photocells for interval times and the finish connected to inputs 2-4 with lock times of 0.10 s.
+Here is an example of a timer with a :ref:`start gate <Start Block>` connected to input 1 with a lock time of 1.00 second, and :ref:`photocells <Photocell Pair>` for interval times and the finish connected to inputs 2-4 with lock times of 0.10 s.
 
 .. image:: ../../img/cp540/lock-times.jpg
