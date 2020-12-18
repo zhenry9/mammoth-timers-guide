@@ -6,7 +6,7 @@
 MMRD Timing Technician Manual
 ================================================
 
-This document is meant to be a comprehensive guide to timing a race at Mammoth Mountain, as well as using and maintaining our existing infrastructure. The focus is on FIS and US Ski and Snowboard scored races, and rule numbers will be referenced where applicable. It is organized into sections to be readable. The first two sections cover best practices and setting up and running a race, the middle sections give comprehensive instructions for radio protocol and software operation, and the later sections provide reference information on paperwork, equipment and venues.
+This document is  a comprehensive guide to timing a race at Mammoth Mountain.  It is also a guide to using and maintaining our existing infrastructure. The focus is on scored FIS and US Ski and Snowboard scored races. There are references to rule numbers where applicable. It is organized into sections to be readable. 
 
 Intro and Best Practices
 ------------------------

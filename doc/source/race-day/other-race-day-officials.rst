@@ -14,7 +14,7 @@ The starter has two main jobs:
 	- **Keep the timer informed of who is in the gate**
 	- **Give the start cadence to competitors**
 	
-The starter is in communication with the timer in the finish shack at all times using a :ref:`headset <headset>`. The starter acts as the timer's eyes and ears in the start area. It is crucial that the timer knows clearly which competitors are on course or getting ready to start. As a competitor enters the start gate, the starter reads his or her bib number to the timer. When the competitor starts, the starter reiterates the starting competitor's bib number and reads the bib number of the next competitor in the gate. 
+The starter is in communication with the timer in the finish shack at all times using a :ref:`headset <headset>`. The starter acts as the timer's eyes and ears in the start area. It is crucial that the timer knows clearly which competitors are on course or getting ready to start. As a competitor enters the start gate, the starter reads his or her bib number to the timer. When the competitor starts, the starter reiterates their bib number and reads the bib number of the next competitor in the gate. 
 
 In practice, this sounds like:
 	"Bib 12 on course, bib 13 in the gate."
@@ -52,12 +52,12 @@ Handtimers
 ----------
 *Relevant ICR sections:* :term:`611.2.2`, :term:`612.5`
 
-Handtimers operate the manual (System C) backup timing system. They are stationed at the start and the finish of the course and use a :ref:`Hand Watch` to take and record start and finish times of day. Hand times are used in the :doc:`TDTR` to verify electronic timing system accuracy, and in the event of a failure of both electronic timing systems hand times are used to calculate race times following the :ref:`EET` procedure. In an ideal world hand times are not used to calculate results, but it can and does happen. It is therefore an absolutely essential position and care should be taken that the hand watches are setup correctly and that the hand timing staff are properly trained.
+Handtimers operate the manual (System C) backup timing system. They are stationed at the start and the finish of the course and use a :ref:`Hand Watch` to take and record start and finish times of day. Hand times are used in the :doc:`TDTR` to verify electronic timing system accuracy. In the event of a failure of both electronic timing systems, hand times are used to calculate race times. The :ref:`EET` section explains how to do this. In an ideal world hand times are not used to calculate results, but it can and does happen. It is therefore an absolutely essential position. You should take care that the hand watches are setup correctly, and that the hand timing staff are properly trained.
 
-Hand watches should be synced and ready in time to go out with the volunteers. Ideally this is done to the same clock used to sync the electronic times. See :ref:`Syncing Hand Watches` for information on how to do this. 
+The volunteer coordinator or the head timer should have the hand watches synced and ready in time to go out with the volunteers. Ideally this is done to the same clock used to sync the electronic times. See :ref:`Syncing Hand Watches` for information on how to do this. 
 
 Handtiming staff should be instruced to press only the black SPLIT/LAP button (top left). Pressing other buttons will usually not take the watches out of syncronization, but it can set the watch to a different mode that makes handtiming confusing or difficult. 
 
-Handtimers at the start should press the black SPLIT/LAP button every time a racer starts, and record the bib number and the time of day shown on the bottom line of the watch. This should happen the moment the start wand starts to move. Handtimers at the finish should record the time of day the moment any part of the racer's body or equipment crosses the finish line, as per rule :term:`611.3.1`.
+Handtimers at the start should press the black SPLIT/LAP button every time a racer starts. This should happen the moment the start wand starts to move. They should then record the racer's bib number and the time of day shown on the bottom line of the watch. Handtimers at the finish should record the time of day the moment any part of the racer's body or equipment crosses the finish line, as per rule :term:`611.3.1`.
 
-Handtimers' top priority should be absolute consistency racer to racer. It doesn't matter if they are slightly early or slightly late, as long as they are consistent. Human error can be caught and corrected, as long as it is consistent, using the procedure described in :ref:`EET`, and hand times are normally very accurate.
+Handtimers' top priority should be absolute consistency racer to racer. It doesn't matter if they are slightly early or slightly late, as long as they are consistent. Human error can be caught and corrected, as long as it is consistent, using the procedure described in :ref:`EET`. Hand times can be very accurate.
