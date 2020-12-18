@@ -1,4 +1,4 @@
 recommonmark
 sphinx-markdown-tables
 sphinx-hoverxref
-sphinx-rtd-theme
+sphinx_rtd_theme
