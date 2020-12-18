@@ -1,3 +1,6 @@
+Equipment
+=========
+
 .. toctree::
    :maxdepth: 2
    :includehidden:

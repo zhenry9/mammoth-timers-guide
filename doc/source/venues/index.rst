@@ -1,3 +1,6 @@
+Venues
+======
+
 .. toctree::
    :maxdepth: 2
    :includehidden:
