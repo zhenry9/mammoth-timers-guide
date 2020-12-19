@@ -27,6 +27,13 @@
    race-day/race-day
    race-day/other-race-day-officials
    
+.. toctree::
+	:maxdepth: 2
+	:includehidden:
+	:caption: Infrastructure
+	
+	equipment/index
+	venues/index
 
 .. toctree::
    :maxdepth: 2
@@ -34,8 +41,6 @@
    :caption: Reference
    
    paperwork/index
-   equipment/index
-   venues/index
    reference/icr-reference
    links
 
