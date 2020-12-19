@@ -1,6 +1,8 @@
 Setup
 =====
 
+.. image:: ../img/homologated-signal-flow.png
+
 Start
 -----
 
