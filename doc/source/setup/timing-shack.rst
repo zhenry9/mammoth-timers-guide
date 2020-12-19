@@ -6,4 +6,4 @@ Timing Shack Setup
 Scoreboard Setup
 ----------------
 
-.. image:: ../timing-shack-with-scoreboard-signal-flow.png
+.. image:: ../img/timing-shack-with-scoreboard-signal-flow.png
