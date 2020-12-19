@@ -3,14 +3,12 @@ Setup
 
 .. image:: ../img/homologated-signal-flow.png
 
-Start
------
-
-Finish
-------
-
-Timing Shack
-------------
-
-Intervals and Other Advanced Setup
-----------------------------------
+.. toctree::
+	:maxdepth: 2
+	:caption: Table of Contents
+	
+	start
+	finish
+	timing-shack
+	intervals/index
+	other/index
