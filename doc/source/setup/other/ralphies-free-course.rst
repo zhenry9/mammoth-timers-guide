@@ -11,7 +11,7 @@ The Start
 :Equipment Needed:
 	.. include:: ../../equipment/kits/free-course-start-kit.rst
 	
-Mount the start controller on the bamboo between the start wand and the hill wire timing box. It is important to use an automatic returning start wand since this start will be unstaffed. Use one of the long pigtails to connect the start block to one of the leads on the self-timer start controller. Trench this wire under the snow to protect it from accidental disconnection. Use the other long pigtail to connect the other start controller lead to the hill wire box. Use the Time 1 plug.
+Mount the start controller on bamboo between the start wand and the hill wire timing box. It is important to use an automatic returning start wand since this start will be unstaffed. Use one of the long pigtails to connect the start block to one of the leads on the self-timer start controller. Trench this wire under the snow to protect it from accidental disconnection. Use the other long pigtail to connect the other start controller lead to the hill wire box. Use the Time 1 plug.
 
 
 The Finish
