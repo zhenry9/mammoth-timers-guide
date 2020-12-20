@@ -37,7 +37,7 @@ Timing Shack
 	
 Since all of the timing functionality is contained within the self-timer display board, the setup needed inside the timing shack is minimal. You just need to connect the start and finish to the display board itself. This can be accomplished by jumping a few connections on the Ralphie's shack timing board. 
 
-The start should be connected to the 'Time 1' output on the timing board. Use a pigtail to jump this to the self-timer start input. The finish is connected to either one of the two finish outputs on the board. These should be round plugs with jumpers already attached. Remember which one you plugged into on the lift tower and plug the appropriate jumper into the self-timer finish input on the timing board.
+The start should be already be connected to the 'Time 1' pair of the hill wire. Find this output on the timing board and use a pigtail to jump it to the self-timer 'start' input. The finish should already be connected to either one of the two finish pairs. These should come out of the timing board on round plugs with banana plug jumpers already attached. Remember which one you plugged into on the lift tower, and plug it into the self-timer 'finish' input on the timing board.
 
 Testing and Troubleshooting
 ---------------------------
@@ -50,6 +50,6 @@ Once everthing is setup correctly, the start controller should show a green 'Go'
 
 Check that the timer starts counting up when the wand is opened, and stops on a finish impulse. If there is someone at the finish have them give you an impulse with their hand. If not, you can use a shorting bar to give an impulse in the shack. Just make sure to test the finish after.
 
-If you have persistent trouble, start checking the condition of the display board and the wires connected to it. They have likely been outside year-round and may have been damaged by the sun or possibly by lightning. If you have doubts about the timing wire connecting the self-timer display board to the timing board inside the shack, run a new one. Run a hand spool that you are confident in out the door and make the connection directly.
+If you have persistent trouble, start checking the condition of the display board and the wires connected to it. They have likely been outside year-round and may have been damaged by the sun or by lightning. If you have doubts about the timing wire connecting the self-timer display board to the timing board inside the shack, run a new one. Run a hand spool that you are confident in out the door and make the connection directly.
 
 If you still can't get it to work, bring the display board and the start controller inside the Hilton and test it there. If it works inside the Hilton, look for trouble with the hill wires on Ralphie's. If it doesn't, the self-timer likely needs service. 
