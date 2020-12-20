@@ -301,7 +301,7 @@ Wiring and Cables
 Pigtail
 -------
 
-.. image:: ../img/equipment/pigtail.jpg
+.. image:: /img/equipment/pigtail.jpg
   :width: 25%
   :align: left
   
