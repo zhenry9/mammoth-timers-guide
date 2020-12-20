@@ -209,7 +209,7 @@ Scored Finish Post
 ------------------
 
 .. image:: ../img/equipment/scored-finish-post.jpg
-  :height: 300px
+  :height: 200px
   :align: left
   
 :Model number(s): 
