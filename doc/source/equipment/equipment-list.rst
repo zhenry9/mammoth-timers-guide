@@ -209,6 +209,7 @@ Scored Finish Post
 ------------------
 
 .. image:: ../img/equipment/scored-finish-post.jpg
+  :width: 25%
   :height: 200px
   :align: left
   
@@ -264,6 +265,7 @@ Homologated Timer
 
 .. image:: ../img/equipment/cp540.jpg
   :width: 25%
+  :height: 200px
   :align: left
   
 :Model number(s): 
@@ -303,6 +305,7 @@ Pigtail
 
 .. image:: /img/equipment/pigtail.jpg
   :width: 25%
+  :height: 200px
   :align: left
   
 :Model number(s): 
