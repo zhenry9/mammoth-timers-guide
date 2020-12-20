@@ -37,7 +37,7 @@ Timing Shack
 	
 Since all of the timing functionality is contained within the self-timer display board, the setup needed inside the timing shack is minimal. You just need to connect the start and finish to the display board itself. This can be accomplished by jumping a few connections on the Ralphie's shack timing board. 
 
-The start should be already be connected to the 'Time 1' pair of the hill wire. Find this output on the timing board and use a pigtail to jump it to the self-timer 'start' input. The finish should already be connected to either one of the two finish pairs. These should come out of the timing board on round plugs with banana plug jumpers already attached. Remember which one you plugged into on the lift tower, and plug it into the self-timer 'finish' input on the timing board.
+The start should already be connected to the 'Time 1' pair of the hill wire. Find this output on the timing board and use a pigtail to jump it to the self-timer 'start' input. The finish should already be connected to either one of the two finish pairs. These should come out of the timing board on round plugs with banana plug jumpers already attached. Remember which one you plugged into on the lift tower, and plug it into the self-timer 'finish' input on the timing board.
 
 Testing and Troubleshooting
 ---------------------------
