@@ -3,7 +3,7 @@ Ralphie's Free Course
 
 .. image:: ../../img/ralphies-free-course-signal-flow.png
 
-The free course on Ralphie's is a self-timed, non-homologated race course for the public. It is designed to not require staff at the start or finish to operate. A start controller box at the start controls the start interval using red and green lights. Timing is handled internally in the :ref:`Alge Self Timer` display board. All that is needed is to connect the start (with controller) and finish to the display board.
+The free course on Ralphie's is a self-timed, non-homologated race course for the public. It is designed to operate without staff at the start or the finish. A start controller box at the start controls the start interval using red and green lights. Timing is handled internally in the :ref:`Alge Self Timer` display board. All that is needed is to connect the start (with controller) and finish to the display board.
 
 The Start
 ---------
