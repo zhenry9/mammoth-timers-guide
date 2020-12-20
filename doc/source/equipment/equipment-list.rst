@@ -59,7 +59,7 @@ Start Block Chain
 ------------------
 
 .. image:: ../img/equipment/start-chain.jpg
-  :width: 25%
+  :height: 200px
   :align: left
   
 :Model number(s): 
@@ -79,7 +79,7 @@ Headset with TAG Plug Adaptor Attached
 --------------------------------------
 
 .. image:: ../img/equipment/headset.jpg
-  :width: 25%
+  :height: 200px
   :align: left
   
 :Model number(s): 
@@ -97,7 +97,7 @@ Com Box
 -----------
 
 .. image:: ../img/equipment/com-box.jpg
-  :width: 25%
+  :height: 200px
   :align: left
   
 :Model number(s): 
@@ -209,7 +209,6 @@ Scored Finish Post
 ------------------
 
 .. image:: ../img/equipment/scored-finish-post.jpg
-  :width: 25%
   :height: 200px
   :align: left
   
@@ -264,7 +263,6 @@ Homologated Timer
 ----------------
 
 .. image:: ../img/equipment/cp540.jpg
-  :width: 25%
   :height: 200px
   :align: left
   
@@ -283,7 +281,7 @@ Hand Watch
 ------------
 
 .. image:: ../img/equipment/handtiming-watch.jpg
-  :width: 25%
+  :height: 200px
   :align: left
   
 :Model number(s): 
@@ -305,7 +303,6 @@ Pigtail
 
 .. image:: /img/equipment/pigtail.jpg
   :width: 25%
-  :height: 200px
   :align: left
   
 :Model number(s): 
