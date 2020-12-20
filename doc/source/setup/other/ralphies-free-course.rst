@@ -24,6 +24,8 @@ The finish should be setup following the normal procedure for non-homologated ra
 
 Use a :ref:`Hand Spool` to connect the photocell to the timing box on the lift tower, and trench the wire in. There are two pairs in the timing box. Remember which one you connect to.
 
+Dye the finish line red.
+
 Timing Shack
 ------------
 
@@ -46,6 +48,6 @@ Once everthing is setup correctly, the start controller should show a green 'Go'
 
 Check that the timer starts counting up when the wand is opened, and stops on a finish impulse. If there is someone at the finish have them give you an impulse with their hand. If not, you can use a shorting bar to give an impulse in the shack. Just make sure to test the finish after.
 
-If you have persistent trouble, start checking the condition of the display board and the wires connected to it. They have likely been outside year-round and may have been damaged by the sun or possibly by lightning. If you have doubts about the timing wire connecting the self-timer display board to the timing board inside the shack, run a new one. Run a hand spool that you are confident out the door and make the connection directly.
+If you have persistent trouble, start checking the condition of the display board and the wires connected to it. They have likely been outside year-round and may have been damaged by the sun or possibly by lightning. If you have doubts about the timing wire connecting the self-timer display board to the timing board inside the shack, run a new one. Run a hand spool that you are confident in out the door and make the connection directly.
 
 If you still can't get it to work, bring the display board and the start controller inside the Hilton and test it there. If it works inside the Hilton, look for trouble with the hill wires on Ralphie's. If it doesn't, the self-timer likely needs service. 
