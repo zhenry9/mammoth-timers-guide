@@ -245,7 +245,7 @@ Finish Panel
 ------------
 
 .. image:: ../img/equipment/finish-panel.jpg
-  :width: 25%
+  :height: 200px
   :align: left
   
 :Model number(s): 
