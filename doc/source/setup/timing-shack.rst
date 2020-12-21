@@ -24,23 +24,20 @@ Connect the start
 ~~~~~~~~~~~~~~~~~
 
 .. figure:: /img/timing-shack-connections/start-distributor-1.jpg
-	:width: 25%
+	:width: 30%
 
 	The start distributor next to the timing board.
 	
-.. container:: step1
+.. figure:: /img/timing-shack-connections/start-distributor-2.jpg
+	:align: left
 
-   .. container:: leftside
+	Step 1
 
-      .. figure:: /img/timing-shack-connections/start-distributor-2.jpg
-
-   .. container:: rightside
-
-      Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor. This is the System A start.
+Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor. This is the System A start.
 	  
 .. container:: clearer
 
-    .. image :: _static/spacer.png
+    .. image :: /_static/spacer.png
 	  
 .. container:: step2
 
@@ -54,7 +51,7 @@ Connect the start
 	
 .. container:: clearer
 
-    .. image :: _static/spacer.png
+    .. image :: /_static/spacer.png
 	
 .. container:: step3
 
@@ -68,7 +65,7 @@ Connect the start
 	  
 .. container:: clearer
 
-    .. image :: _static/spacer.png
+    .. image :: /_static/spacer.png
 	  
 .. container:: step4
 
@@ -80,9 +77,6 @@ Connect the start
 
      Connect 'Output 2' on the distributor to 'Input 1' on the System B electronic timer.
 
-.. |clear| raw:: html 
-
-	<div class="clear"></div>
 
 Connect the finish
 ~~~~~~~~~~~~~~~~~
