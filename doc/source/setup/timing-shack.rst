@@ -16,7 +16,7 @@ Connecting the electronic timers
 --------------------------------
 
 .. image:: /img/timing-shack-connections/tidy-up.jpg
-	:width: 25%
+	:width: 30%
 
 The first step is to connect the start and finish to the electronic timers. This is made easier by the labled timing boards located in each of the timing shacks. For this example we will use the timing board in the :ref:`Hilton`.
 
@@ -29,6 +29,7 @@ Connect the start
 	The start distributor next to the timing board.
 	
 .. figure:: /img/timing-shack-connections/start-distributor-2.jpg
+	:width: 30%
 	:align: left
 
 	Step 1
@@ -39,19 +40,19 @@ Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distribut
 
     .. image :: /_static/spacer.png
 	  
-.. container:: step2
 
-   .. container:: leftside
-
-      .. figure:: /img/timing-shack-connections/start-distributor-3.jpg
-
-   .. container:: rightside
-
-     Connect 'Time 2' on the timing board to 'Input 2' on the distributor. This is the System B start.
+.. figure:: /img/timing-shack-connections/start-distributor-3.jpg
+	:width: 30%
+	:align: left
+	
+	Step 2
+     
+Connect 'Time 2' on the timing board to 'Input 2' on the distributor. This is the System B start.
 	
 .. container:: clearer
 
     .. image :: /_static/spacer.png
+	
 	
 .. container:: step3
 
