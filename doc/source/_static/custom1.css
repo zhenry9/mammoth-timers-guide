@@ -7,3 +7,7 @@ div.leftside {
 div.rightside {
     margin-left: 210px;
 }
+
+div.clear {
+	width: 1px;
+}

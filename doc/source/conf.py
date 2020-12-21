@@ -74,7 +74,7 @@ html_theme_options = {
 html_static_path = ['_static']
 
 html_css_files = [
-    'custom.css',
+    'custom1.css',
     ]
 
 hoverxref_auto_ref = True
