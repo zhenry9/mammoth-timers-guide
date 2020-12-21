@@ -5,6 +5,9 @@ Timing Shack Setup
 
 	Basic timing shack signal flow for homologated races.
 	
+:Equipment Needed:
+	.. include:: /equipment/kits/homologated-timing-shack-kit.rst
+	
 The timing shack is where the timing system is tied together. The start and the finish are connected to the electronic timers, and the electronic timers to the timing PC(s). Communications are established between the timer and the starter, and between the scoreboard staff. Accessories such as digital display boards are setup.
 
 Impulse distributors are not required by rule, and some mountains don't use them. However, the large amount of electrical noise at Mammoth Mountain necessitates their use here. They filter the noise out of timing lines and prevent false impulses.
@@ -66,8 +69,7 @@ Connect the finish
 |start5| Connect 'Output 2' on the distributor to 'Input 2' on the System B electronic timer.
 
 .. |start2| image:: /img/timing-shack-connections/finish-distributor-2.jpg
-	:width: 25%
-	:align: left
+	:width: 25% :align: left
 	
 .. |start3| image:: /img/timing-shack-connections/finish-distributor-3.jpg
 	:width: 25%
