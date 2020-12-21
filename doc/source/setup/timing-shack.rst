@@ -58,8 +58,8 @@ Step 3
 	
 	Step 3
 
-    Connect 'Output 1' on the distributor to 'Input 1' on the System A electronic timer using a TAG-to-TAG Cable.
-	  
+	Connect 'Output 1' on the distributor to 'Input 1' on the System A electronic timer using a TAG-to-TAG Cable.
+	
 Step 4
 ++++++
 
