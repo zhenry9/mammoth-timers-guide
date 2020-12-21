@@ -12,6 +12,9 @@ The timing shack is where the timing system is tied together. The start and the 
 
 Impulse distributors are not required by rule, and some mountains don't use them. However, the large amount of electrical noise at Mammoth Mountain necessitates their use here. They filter the noise out of timing lines and prevent false impulses.
 
+.. contents:: Table of Contents
+	:local:
+
 Connecting the electronic timers
 --------------------------------
 
@@ -101,6 +104,14 @@ Connect the finish
 	Step 4
 	
 	Connect 'Output 2' on the distributor to 'Input 2' on the System B electronic timer.
+	
+Connect to the timing PC
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: /img/timing-shack-connections/connect-rs232.jpg
+	:width: 30%
+
+	Use the :ref:`RS-232 cable <RS-232 Cable with USB Adaptor>` to connect the System A timer to the timing PC. Plug the telecom cable end into the timer and the USB end into the computer.
 	
 	
 Scoreboard Setup
