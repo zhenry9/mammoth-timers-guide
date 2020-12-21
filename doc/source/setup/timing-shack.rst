@@ -15,8 +15,8 @@ Impulse distributors are not required by rule, and some mountains don't use them
 .. contents:: Table of Contents
 	:local:
 
-Connecting the electronic timers
---------------------------------
+Connect the electronic timers
+-----------------------------
 
 .. image:: /img/timing-shack-connections/tidy-up.jpg
 	:width: 30%
@@ -112,6 +112,9 @@ Connect to the timing PC
 	:width: 30%
 
 	Use the :ref:`RS-232 cable <RS-232 Cable with USB Adaptor>` to connect the System A timer to the timing PC. Plug the telecom cable end into the timer and the USB end into the computer.
+	
+Connect Coms
+------------
 	
 	
 Scoreboard Setup
