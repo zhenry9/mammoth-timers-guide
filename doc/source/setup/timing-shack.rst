@@ -33,7 +33,7 @@ Connect the start
 
 	Step 1
 
-Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor. This is the System A start.
+Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor using a Tag-to-Banana Cable. This is the System A start.
 	  
 .. container:: clearer
 
@@ -61,7 +61,7 @@ Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distribut
 
    .. container:: rightside
 
-      Connect 'Output 1' on the distributor to 'Input 1' on the System A electronic timer.
+      Connect 'Output 1' on the distributor to 'Input 1' on the System A electronic timer using a TAG-to-TAG Cable.
 	  
 .. container:: clearer
 
