@@ -21,6 +21,7 @@ Connect the start
 ~~~~~~~~~~~~~~~~~
 
 .. figure:: /img/timing-shack-connections/start-distributor-1.jpg
+	:width: 25%
 
 	The start distributor next to the timing board.
 	
@@ -34,20 +35,25 @@ Connect the start
 
 .. |start2| image:: /img/timing-shack-connections/start-distributor-2.jpg
 	:width: 25%
+	:align: left
 	
 .. |start3| image:: /img/timing-shack-connections/start-distributor-3.jpg
 	:width: 25%
+	:align: left
 	
 .. |start4| image:: /img/timing-shack-connections/start-distributor-4.jpg
 	:width: 25%
+	:align: left
 	
 .. |start5| image:: /img/timing-shack-connections/start-distributor-5.jpg
 	:width: 25%
+	:align: left
 
 Connect the finish
 ~~~~~~~~~~~~~~~~~
 
 .. figure:: /img/timing-shack-connections/finish-distributor-1.jpg
+	:width: 25%
 
 	The finish distributor next to the timing board.
 	
@@ -61,15 +67,19 @@ Connect the finish
 
 .. |start2| image:: /img/timing-shack-connections/finish-distributor-2.jpg
 	:width: 25%
+	:align: left
 	
 .. |start3| image:: /img/timing-shack-connections/finish-distributor-3.jpg
 	:width: 25%
+	:align: left
 	
 .. |start4| image:: /img/timing-shack-connections/finish-distributor-4.jpg
 	:width: 25%
+	:align: left
 	
 .. |start5| image:: /img/timing-shack-connections/finish-distributor-5.jpg
 	:width: 25%
+	:align: left
 	
 Scoreboard Setup
 ----------------
