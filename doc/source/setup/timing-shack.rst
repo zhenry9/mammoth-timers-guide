@@ -27,57 +27,49 @@ Connect the start
 	:width: 30%
 
 	The start distributor next to the timing board.
-.. sidebar:: Step 1	
 
-	.. figure:: /img/timing-shack-connections/start-distributor-2.jpg
-		:width: 30%
-		:align: left
+Step 1
+++++++
 
-		Step 1
+.. figure:: /img/timing-shack-connections/start-distributor-2.jpg
+	:width: 30%
+	:align: left
 
-		Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor using a Tag-to-Banana Cable. This is the System A start.
+	Step 1
+
+Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor using a Tag-to-Banana Cable. This is the System A start.
 		  
-.. container:: clearer
 
-    .. image :: /_static/spacer.png
-	  
+Step 2
+++++++
 
-.. sidebar:: Step 2
-
-	.. image:: /img/timing-shack-connections/start-distributor-3.jpg
-		:width: 30%
-		:align: left
-		
+.. image:: /img/timing-shack-connections/start-distributor-3.jpg
+	:width: 30%
+	:align: left
+	
 Connect 'Time 2' on the timing board to 'Input 2' on the distributor. This is the System B start.
 	
-.. container:: clearer
+Step 3
+++++++
 
-    .. image :: /_static/spacer.png
+.. figure:: /img/timing-shack-connections/start-distributor-4.jpg
+	:width: 30%
+	:align: left
 	
+	Step 3
+
+    Connect 'Output 1' on the distributor to 'Input 1' on the System A electronic timer using a TAG-to-TAG Cable.
+	  
+Step 4
+++++++
+
+.. figure:: /img/timing-shack-connections/start-distributor-5.jpg
+	:width: 30%
+	:align: left
 	
-.. container:: step3
+	Step 4
 
-   .. container:: leftside
-
-      .. figure:: /img/timing-shack-connections/start-distributor-4.jpg
-
-   .. container:: rightside
-
-      Connect 'Output 1' on the distributor to 'Input 1' on the System A electronic timer using a TAG-to-TAG Cable.
-	  
-.. container:: clearer
-
-    .. image :: /_static/spacer.png
-	  
-.. container:: step4
-
-   .. container:: leftside
-
-      .. figure:: /img/timing-shack-connections/start-distributor-5.jpg
-
-   .. container:: rightside
-
-     Connect 'Output 2' on the distributor to 'Input 1' on the System B electronic timer.
+Connect 'Output 2' on the distributor to 'Input 1' on the System B electronic timer.
 
 
 Connect the finish
