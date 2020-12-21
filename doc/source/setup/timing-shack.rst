@@ -50,7 +50,7 @@ Connect the start
 
      Connect 'Time 2' on the timing board to 'Input 2' on the distributor. This is the System B start.
 	
-|clear|
+.
 	
 .. container:: step3
 
@@ -62,7 +62,7 @@ Connect the start
 
       Connect 'Output 1' on the distributor to 'Input 1' on the System A electronic timer.
 	  
-|clear|
+.
 	  
 .. container:: step4
 
@@ -76,7 +76,7 @@ Connect the start
 
 .. |clear| raw:: html 
 
-	<div class="clearer"></div>
+	<div class="clear"></div>
 
 Connect the finish
 ~~~~~~~~~~~~~~~~~
