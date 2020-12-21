@@ -60,26 +60,27 @@ Connect the finish
 
 	The finish distributor next to the timing board.
 	
-|start2| Connect 'HiFi 1' on the timing board to 'Input 1' on the finish impulse distributor. This is the System A finish.
+|finish2| Connect 'HiFi 1' on the timing board to 'Input 1' on the finish impulse distributor. This is the System A finish.
 
-|start3| Connect 'HiFi 2' on the timing board to 'Input 2' on the distributor. This is the System B finish.
+|finish3| Connect 'HiFi 2' on the timing board to 'Input 2' on the distributor. This is the System B finish.
 
-|start4| Connect 'Output 1' on the distributor to 'Input 2' on the System A electronic timer.
+|finish4| Connect 'Output 1' on the distributor to 'Input 2' on the System A electronic timer.
 
-|start5| Connect 'Output 2' on the distributor to 'Input 2' on the System B electronic timer.
+|finish5| Connect 'Output 2' on the distributor to 'Input 2' on the System B electronic timer.
 
-.. |start2| image:: /img/timing-shack-connections/finish-distributor-2.jpg
-	:width: 25% :align: left
-	
-.. |start3| image:: /img/timing-shack-connections/finish-distributor-3.jpg
+.. |finish2| image:: /img/timing-shack-connections/finish-distributor-2.jpg
 	:width: 25%
 	:align: left
 	
-.. |start4| image:: /img/timing-shack-connections/finish-distributor-4.jpg
+.. |finish3| image:: /img/timing-shack-connections/finish-distributor-3.jpg
 	:width: 25%
 	:align: left
 	
-.. |start5| image:: /img/timing-shack-connections/finish-distributor-5.jpg
+.. |finish4| image:: /img/timing-shack-connections/finish-distributor-4.jpg
+	:width: 25%
+	:align: left
+	
+.. |finish5| image:: /img/timing-shack-connections/finish-distributor-5.jpg
 	:width: 25%
 	:align: left
 	
