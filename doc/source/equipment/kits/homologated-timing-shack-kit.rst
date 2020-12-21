@@ -9,4 +9,4 @@ Homologated Timing Shack Kit
 	- 1  x :ref:`Pigtail`
 	- 4  x :ref:`Tag-to-Banana Cable`
 	- 4  x :ref:`TAG-to-TAG Cable`
-	- 1  x :ref:`RS232 Cable with USB Adaptor` (if using a System B PC, use 2)
+	- 1  x :ref:`RS-232 Cable with USB Adaptor` (if using a System B PC, use 2)
