@@ -57,6 +57,8 @@ exclude_patterns = []
 #
 html_theme = 'sphinx_rtd_theme'
 
+html_favicon = 'mammoth-favicon.jpg'
+
 # html_logo = 'mammoth-logo.jpg'
 
 # Theme options are theme-specific and customize the look and feel of a theme
