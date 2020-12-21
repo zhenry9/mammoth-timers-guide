@@ -28,7 +28,7 @@ Connect the start
 
 	The start distributor next to the timing board.
 	
-.. container:: twocol
+.. container:: step1
 
    .. container:: leftside
 
@@ -38,7 +38,8 @@ Connect the start
 
       Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor. This is the System A start.
 	  
-. container:: twocol
+	  
+.. container:: step2
 
    .. container:: leftside
 
@@ -48,7 +49,8 @@ Connect the start
 
      Connect 'Time 2' on the timing board to 'Input 2' on the distributor. This is the System B start.
 	
-.. container:: twocol
+	
+.. container:: step3
 
    .. container:: leftside
 
@@ -58,7 +60,8 @@ Connect the start
 
       Connect 'Output 1' on the distributor to 'Input 1' on the System A electronic timer.
 	  
-. container:: twocol
+	  
+.. container:: step4
 
    .. container:: leftside
 
