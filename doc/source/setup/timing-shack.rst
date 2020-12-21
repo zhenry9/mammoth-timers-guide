@@ -38,19 +38,18 @@ Connect the start
 
 .. |start2| image:: /img/timing-shack-connections/start-distributor-2.jpg
 	:width: 25%
-	:align: left
+	:align: top
 	
 .. |start3| image:: /img/timing-shack-connections/start-distributor-3.jpg
 	:width: 25%
-	:align: left
+	:align: bottom
 	
 .. |start4| image:: /img/timing-shack-connections/start-distributor-4.jpg
 	:width: 25%
-	:align: left
+	:align: middle
 	
 .. |start5| image:: /img/timing-shack-connections/start-distributor-5.jpg
 	:width: 25%
-	:align: left
 
 Connect the finish
 ~~~~~~~~~~~~~~~~~
