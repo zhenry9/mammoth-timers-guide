@@ -83,30 +83,35 @@ Connect the finish
 	:width: 25%
 
 	The finish distributor next to the timing board.
-	
-|finish2| Connect 'HiFi 1' on the timing board to 'Input 1' on the finish impulse distributor. This is the System A finish.
 
-|finish3| Connect 'HiFi 2' on the timing board to 'Input 2' on the distributor. This is the System B finish.
 
-|finish4| Connect 'Output 1' on the distributor to 'Input 2' on the System A electronic timer.
-
-|finish5| Connect 'Output 2' on the distributor to 'Input 2' on the System B electronic timer.
-
-.. |finish2| image:: /img/timing-shack-connections/finish-distributor-2.jpg
+.. figure:: /img/timing-shack-connections/finish-distributor-2.jpg
 	:width: 25%
-	:align: left
 	
-.. |finish3| image:: /img/timing-shack-connections/finish-distributor-3.jpg
-	:width: 25%
-	:align: left
+	Step 1
 	
-.. |finish4| image:: /img/timing-shack-connections/finish-distributor-4.jpg
-	:width: 25%
-	:align: left
+	Connect 'HiFi 1' on the timing board to 'Input 1' on the finish impulse distributor. This is the System A finish.
 	
-.. |finish5| image:: /img/timing-shack-connections/finish-distributor-5.jpg
+.. figure:: /img/timing-shack-connections/finish-distributor-3.jpg
 	:width: 25%
-	:align: left
+	
+	Step 2
+	
+	Connect 'HiFi 2' on the timing board to 'Input 2' on the distributor. This is the System B finish.
+	
+.. figure:: /img/timing-shack-connections/finish-distributor-4.jpg
+	:width: 25%
+	
+	Step 3
+	
+	Connect 'Output 1' on the distributor to 'Input 2' on the System A electronic timer.
+	
+.. figure:: /img/timing-shack-connections/finish-distributor-5.jpg
+	:width: 25%
+	
+	Step 4
+	
+	Connect 'Output 2' on the distributor to 'Input 2' on the System B electronic timer.
 	
 Scoreboard Setup
 ----------------
