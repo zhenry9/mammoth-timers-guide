@@ -74,7 +74,8 @@ Connect the start
 
      Connect 'Output 2' on the distributor to 'Input 1' on the System B electronic timer.
 
-.. |clear| raw::html <div class="clearer"></div>
+.. |clear| raw:: html 
+	<div class="clearer"></div>
 
 Connect the finish
 ~~~~~~~~~~~~~~~~~
