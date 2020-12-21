@@ -73,6 +73,10 @@ html_static_path = ['_static']
 
 hoverxref_auto_ref = True
 
+hoverxref_roles = [
+    'term',
+    ]
+
 latex_elements = {
     'preamble': '\setcounter{tocdepth}{2}'
     }
