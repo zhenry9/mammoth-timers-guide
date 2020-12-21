@@ -34,20 +34,18 @@ Connect the start
 
 	Step 1
 
-Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor using a Tag-to-Banana Cable. This is the System A start.
+	Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor using a Tag-to-Banana Cable. This is the System A start.
 	  
 .. container:: clearer
 
     .. image :: /_static/spacer.png
 	  
 
-.. figure:: /img/timing-shack-connections/start-distributor-3.jpg
+.. image:: /img/timing-shack-connections/start-distributor-3.jpg
 	:width: 30%
 	:align: left
 	
-	Step 2
-     
-Connect 'Time 2' on the timing board to 'Input 2' on the distributor. This is the System B start.
+	Connect 'Time 2' on the timing board to 'Input 2' on the distributor. This is the System B start.
 	
 .. container:: clearer
 
