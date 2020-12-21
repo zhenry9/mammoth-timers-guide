@@ -38,7 +38,9 @@ Connect the start
 
       Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor. This is the System A start.
 	  
-|clear|
+.. container:: clearer
+
+    .. image :: _static/spacer.png
 	  
 .. container:: step2
 
@@ -50,7 +52,9 @@ Connect the start
 
      Connect 'Time 2' on the timing board to 'Input 2' on the distributor. This is the System B start.
 	
-.
+.. container:: clearer
+
+    .. image :: _static/spacer.png
 	
 .. container:: step3
 
@@ -62,7 +66,9 @@ Connect the start
 
       Connect 'Output 1' on the distributor to 'Input 1' on the System A electronic timer.
 	  
-.
+.. container:: clearer
+
+    .. image :: _static/spacer.png
 	  
 .. container:: step4
 
@@ -94,12 +100,14 @@ Connect the finish
 	
 	Connect 'HiFi 1' on the timing board to 'Input 1' on the finish impulse distributor. This is the System A finish.
 	
+	
 .. figure:: /img/timing-shack-connections/finish-distributor-3.jpg
 	:width: 25%
 	
 	Step 2
 	
 	Connect 'HiFi 2' on the timing board to 'Input 2' on the distributor. This is the System B finish.
+	
 	
 .. figure:: /img/timing-shack-connections/finish-distributor-4.jpg
 	:width: 25%
@@ -108,12 +116,14 @@ Connect the finish
 	
 	Connect 'Output 1' on the distributor to 'Input 2' on the System A electronic timer.
 	
+	
 .. figure:: /img/timing-shack-connections/finish-distributor-5.jpg
 	:width: 25%
 	
 	Step 4
 	
 	Connect 'Output 2' on the distributor to 'Input 2' on the System B electronic timer.
+	
 	
 Scoreboard Setup
 ----------------
