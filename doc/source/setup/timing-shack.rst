@@ -28,6 +28,16 @@ Connect the start
 
 	The start distributor next to the timing board.
 	
+.. container:: twocol
+
+   .. container:: leftside
+
+      .. figure:: /img/timing-shack-connections/start-distributor-2.jpg
+
+   .. container:: rightside
+
+      Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor. This is the System A start.
+	
 |start2| Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor. This is the System A start.
 
 |start3| Connect 'Time 2' on the timing board to 'Input 2' on the distributor. This is the System B start.
