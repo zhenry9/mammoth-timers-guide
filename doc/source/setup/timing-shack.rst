@@ -31,49 +31,39 @@ Connect the start
 Step 1
 ++++++
 
-.. figure:: /img/timing-shack-connections/start-distributor-2.jpg
+.. image:: /img/timing-shack-connections/start-distributor-2.jpg
 	:width: 30%
-	:align: left
-
-	Step 1
 
 Connect 'Time 1' on the timing board to 'Input 1' on the start impulse distributor using a Tag-to-Banana Cable. This is the System A start.
-		  
+
 
 Step 2
 ++++++
 
 .. image:: /img/timing-shack-connections/start-distributor-3.jpg
 	:width: 30%
-	:align: left
 	
 Connect 'Time 2' on the timing board to 'Input 2' on the distributor. This is the System B start.
 	
 Step 3
 ++++++
 
-.. figure:: /img/timing-shack-connections/start-distributor-4.jpg
+.. image:: /img/timing-shack-connections/start-distributor-4.jpg
 	:width: 30%
-	:align: left
-	
-	Step 3
 
-	Connect 'Output 1' on the distributor to 'Input 1' on the System A electronic timer using a TAG-to-TAG Cable.
+Connect 'Output 1' on the distributor to 'Input 1' on the System A electronic timer using a TAG-to-TAG Cable.
 	
 Step 4
 ++++++
 
-.. figure:: /img/timing-shack-connections/start-distributor-5.jpg
+.. image:: /img/timing-shack-connections/start-distributor-5.jpg
 	:width: 30%
-	:align: left
-	
-	Step 4
 
 Connect 'Output 2' on the distributor to 'Input 1' on the System B electronic timer.
 
 
 Connect the finish
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 .. figure:: /img/timing-shack-connections/finish-distributor-1.jpg
 	:width: 25%
