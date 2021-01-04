@@ -32,4 +32,3 @@ For all scored FIS and US Ski & Snowboard races, which are the focus of this boo
 
 In addition to the two electronic systems, a manual backup system must be used according to rule :term:`611.2.2`. This system consists of staff, normally volunteers, operating Time-of-Day stopwatches at the start and finish known as :ref:`Handtimers`. In the case of a failure of System A, a corrected impulse from system B can be used. In the case of a failure of both electronic timing systems the impulse is replaced from the hand times. This process is described in rule :term:`611.3.2.1` and in the :ref:`EET` section of this manual.
 
-The procedure for calculating replacement times from backup systems will be explained later in this book.
