@@ -1,8 +1,10 @@
 Electronic Timing
 =================
+*Relevant ICR section:* :term:`611.2.1`
+
 Ski races are timed using computerized electronic timing systems. The job of timing technicians at Mammoth Mountain is to install, maintain and operate these systems.
 
-In its most basic form, an electronic timing system consists of a :ref:`start wand <Start Block>` and a finish :ref:`photocell <Photocell Pair>` connected to an :ref:`electronic timer <Homologated Timer>`. This electronic timer is then connected to PC running software that calculates net times produces results.
+In its most basic form, an electronic timing system consists of a :ref:`start wand <Start Block>` and a finish :ref:`photocell <Photocell Pair>` connected to an :ref:`electronic timer <Homologated Timer>`. This electronic timer is then connected to PC running software that calculates net times and produces results.
 
 .. image:: ../img/basic-wiring-diagram.jpg
 	:align: center
@@ -16,7 +18,9 @@ Timing devices, such as start wands and finish photocells, are connected to the 
 
 .. |switch| ../img/normally-open-switch.png
 
-The electronic timer has multiple inputs for multiple timing devices, and each timing device needs to be on its own wire pair. When the timer receives an impulse it records the input number and the time of day, precise to the 1/10,000th of a second. The timer prints this information to tape and sends it to the PC. In this way it is possible to calculate net times.
+The electronic timer has multiple inputs for multiple timing devices, and as such each timing device needs to be on its own wire pair. When the timer receives an impulse it records the input number and the time of day, precise to the 1/10,000th of a second. The timer then prints this information to tape and sends it to the PC. In this way it is possible to calculate net times.
+
+**timing tape example here**
 
 For all scored FIS and US Ski & Snowboard races, which are the focus of this book, two electronic systems (one primary and one backup) must be used according to rule :term:`611.2.1`. This ensures redundancy in the case of equipment or wiring failure during the race, or of human error.
 
