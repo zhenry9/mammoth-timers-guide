@@ -32,8 +32,18 @@
 	:includehidden:
 	:caption: Infrastructure
 	
-	equipment/index
-	venues/index
+	infrastructure/mountain-layout
+	infrastructure/race-venues
+	infrastructure/timing-shacks
+	
+.. toctree::
+	:maxdepth: 2
+	:includehidden:
+	:caption: Equipment
+	
+	equipment/equipment-list
+	Kits <equipment/equipment-kits>
+	equipment/in-depth-guides
 
 .. toctree::
    :maxdepth: 2
