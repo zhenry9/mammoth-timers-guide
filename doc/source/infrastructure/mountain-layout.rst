@@ -1,4 +1,4 @@
 Mountain Layout
 ===============
 
-.. figure:: ../img/mountain-wiring-diagram.png
+.. figure:: ../img/mountain-wiring-diagram-condensed.png
