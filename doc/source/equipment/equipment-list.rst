@@ -146,6 +146,24 @@ Electronic Start Clock
   Electronic start clock displaying time of day, along with a visual and acoustic start cadence.
 :Troubleshooting: 
   See document: :doc:`in-depth/alge-asc3`
+  
+Free Course Start Controller
+----------------------------
+
+.. image:: ../img/ralphies-free-course/self-timer-start-controller.jpg
+	:width: 25%
+	:align: left
+	
+:Model number(s): 
+  Alge SF#
+:Homologation number(s):
+  N/A
+:Relevant rule(s):
+  N/A
+:Description: 
+  Used in conjunction with the :ref:`Alge Self Timer` to operate the public free course.
+:Troubleshooting: 
+  See document: :doc:`in-depth/alge-self-timer`
 
 
 Finish Area
@@ -309,7 +327,7 @@ Alge Self Timer
 :Relevant rule(s):
   N/A
 :Description: 
-  Display board with built in timing functionality. Used for the public free course.
+  Display board with built in timing functionality. Used with :ref:`Free Course Start Controller` for the public free course.
 :Troubleshooting: 
   See document :doc:`in-depth/alge-self-timer`
   
