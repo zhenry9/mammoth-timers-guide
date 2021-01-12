@@ -1,7 +1,7 @@
 Finish Setup
 ============
 
-.. figure:: ../img/finish-signal-flow.png
+.. figure:: /img/finish-signal-flow.png
 
 	Signal flow for homologated finishes.
 	

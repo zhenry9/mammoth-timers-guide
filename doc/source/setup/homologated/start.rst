@@ -1,7 +1,7 @@
 Start Setup
 ===========
 
-.. figure:: ../img/start-signal-flow.png
+.. figure:: /img/start-signal-flow.png
 
 	Signal flow for homologated starts.
 	

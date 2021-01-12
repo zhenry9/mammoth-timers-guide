@@ -1,7 +1,7 @@
 Timing Shack Setup
 ==================
 
-.. figure:: ../img/timing-shack-signal-flow.png
+.. figure:: /img/timing-shack-signal-flow.png
 
 	Basic timing shack signal flow for homologated races.
 	
