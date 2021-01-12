@@ -1,7 +1,7 @@
 Homologated Setup
 =================
 
-.. figure:: ../img/homologated-signal-flow.png
+.. figure:: ../../img/homologated-signal-flow.png
 
 	Basic signal flow for all homologated races.
 
