@@ -295,6 +295,24 @@ Hand Watch
 :Troubleshooting: 
   See document :doc:`in-depth/hanhart-delta-e-100`
   
+Alge Self Timer
+---------------
+
+.. image:: ../img/equipment/alge-self-timer.jpg
+  :width: 25%
+  :align: left
+  
+:Model number(s): 
+  Alge Selftimer SF3
+:Homologation number(s):
+  N/A
+:Relevant rule(s):
+  N/A
+:Description: 
+  Display board with built in timing functionality. Used for the public free course.
+:Troubleshooting: 
+  See document :doc:`in-depth/alge-self-timer`
+  
 Wiring and Cables
 ~~~~~~~~~~~~~~~~~
 

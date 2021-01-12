@@ -7,23 +7,8 @@ Ralphie's Free Course
 
 The free course on Ralphie's is a self-timed, non-homologated race course for the public. It is designed to operate without staff at the start or the finish. A start controller box at the start controls the start interval using red and green lights. Timing is handled internally in the :ref:`Alge Self Timer` display board. All that is needed is to connect the start (with controller) and finish to the display board.
 
-Timing Shack
-------------
-
-.. figure:: ../../img/ralphies-free-course/ralphies-shack-area.jpg
-
-:Equipment Needed:
-	- :ref:`Alge Self Timer`
-	- A variety of :ref:`pigtails <Pigtail>`
-	
-Since all of the timing functionality is contained within the self-timer display board, the setup needed inside the timing shack is minimal. You just need to connect the start and finish to the display board itself. This can be accomplished by jumping a few connections on the Ralphie's shack timing board. 
-
-The start signal is coming in on the 'Time 1' pair of the hill wire. Find this output on the left side of the timing board. Use a pigtail to jump it to the 'Time 1' input for the free course on the right side of the board. The start is now connected to the self-timer. The finish signal is coming in on either one of the two finish pairs. These should come out of the timing board on round plugs with banana plug jumpers already attached. Remember which one you plugged into on the lift tower, and plug it into the self-timer 'finish' input on the timing board. If you aren't sure just plug in both.
-
-.. figure:: ../../img/ralphies-free-course/ralphies-shack-board.jpg
-
-	The Ralphie's shack board with the correct connections made for the free course.
-
+.. contents:: Table of contents
+	:local:
 
 The Start
 ---------
@@ -55,6 +40,24 @@ Use a :ref:`Hand Spool` to connect the photocell to the timing box on the lift t
 Dye the finish line.
 
 
+Timing Shack
+------------
+
+.. figure:: ../../img/ralphies-free-course/ralphies-shack-area.jpg
+
+:Equipment Needed:
+	- :ref:`Alge Self Timer`
+	- A variety of :ref:`pigtails <Pigtail>`
+	
+Since all of the timing functionality is contained within the self-timer display board, the setup needed inside the timing shack is minimal. You just need to connect the start and finish to the display board itself. This can be accomplished by jumping a few connections on the Ralphie's shack timing board. 
+
+The start signal is coming in on the 'Time 1' pair of the hill wire. Find this output on the left side of the timing board. Use a pigtail to jump it to the 'Time 1' input for the free course on the right side of the board. The start is now connected to the self-timer. The finish signal is coming in on either one of the two finish pairs. These should come out of the timing board on round plugs with banana plug jumpers already attached. Remember which one you plugged into on the lift tower, and plug it into the self-timer 'finish' input on the timing board. If you aren't sure just plug in both.
+
+.. figure:: ../../img/ralphies-free-course/ralphies-shack-board.jpg
+
+	The Ralphie's shack board with the correct connections made for the free course.
+	
+	
 Testing and Troubleshooting
 ---------------------------
 
