@@ -49,7 +49,7 @@
 	
 	equipment/equipment-list
 	Kits <equipment/equipment-kits>
-	equipment/in-depth-guides
+	equipment/in-depth
 
 .. toctree::
    :maxdepth: 2

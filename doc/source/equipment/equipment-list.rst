@@ -150,7 +150,7 @@ Electronic Start Clock
 Free Course Start Controller
 ----------------------------
 
-.. image:: ../img/ralphies-free-course/self-timer-start-controller.jpg
+.. image:: ../img/ralphies-free-course/selftimer-start-controller.jpg
 	:width: 25%
 	:align: left
 	
