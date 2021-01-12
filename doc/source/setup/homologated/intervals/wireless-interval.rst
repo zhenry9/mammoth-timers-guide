@@ -1,4 +1,4 @@
 Wireless Intermediate Timing
 ============================
 
-.. image:: ../../img/wireless-interval-signal-flow.png
+.. image:: /img/wireless-interval-signal-flow.png
