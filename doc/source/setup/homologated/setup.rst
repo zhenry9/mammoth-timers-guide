@@ -1,5 +1,5 @@
-Setup
-=====
+Homologated Setup
+=================
 
 .. figure:: ../img/homologated-signal-flow.png
 
@@ -13,4 +13,3 @@ Setup
 	finish
 	timing-shack
 	intervals/index
-	other/index

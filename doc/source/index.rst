@@ -14,14 +14,20 @@
    
    intro/intro
    best-practices/best-practices
+ 
+.. toctree::
+   :maxdepth: 2
+   :includehidden:
+   :caption: Setup
    
+   setup/homologated/setup
+   setup/other/index
 
 .. toctree::
    :maxdepth: 2
    :includehidden:
-   :caption: Setting up and Running a Race
+   :caption: Running a Race
    
-   setup/setup
    reference/radio-protocol
    reference/split-second
    race-day/race-day
