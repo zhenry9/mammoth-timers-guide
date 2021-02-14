@@ -14,5 +14,5 @@ Chief of Timing and Calc Study Guides
 
 Other
 -----
-- `Timing Guys timers' forums <http://www.timing-guys.com>`_
+- `Timing Guys timers' forums <http://www.timingguys.com>`_
 - `Phoenix Sports <http://www.phoenix-sports.com>`_
